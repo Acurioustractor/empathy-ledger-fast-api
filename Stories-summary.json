@@ -1,0 +1,584 @@
+{
+  "tableName": "Stories",
+  "recordCount": 39,
+  "fields": [
+    {
+      "name": "Title",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "Coping with grief",
+        "Striving for a Better Future",
+        "Freddy on Orange Sky"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 38,
+      "nullValues": 0
+    },
+    {
+      "name": "Story ID",
+      "types": [
+        "number"
+      ],
+      "sampleValues": [
+        25,
+        31,
+        3
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 39,
+      "nullValues": 0
+    },
+    {
+      "name": "Media",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "rec78I7m3amQvBwO5"
+        ],
+        [
+          "recmBIcwQWLsUZN6M"
+        ],
+        [
+          "recH8gjZL3yfxIlf5"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 38,
+      "nullValues": 0
+    },
+    {
+      "name": "Transcript (from Media)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "# Robyn Watts\n\n[00:00:00] \n\nRobin Watts. You want to know my life story? Okay. Got two girls. I started out life as a teacher, working life as a teacher.\n\nDidn't like that and got a job in local government, so I ended up the last job I had there for 20 years. And then after I retired, I discovered orange sky and my husband got sick. And he subsequently died. And Orange Sky, as I've told Nic, saved me. It made me get out of bed every day, try and push through the grief, and it's just been the best thing I've ever done, apart from having a lovely family.\n\nOh, I love it. I just absolutely love it. I honestly believe. [00:01:00] That we give a lot to friends, but they give just as much back. I go home on top of the world some days. Yeah. And I look forward to the days that I'm on shift. I love it. Really love it.\n\nIt was compounded, my husband had myeloma and the life expectancy of myeloma now is seven years, and he died after about. Three and a half. So he didn't last very long. But grief for my husband dying was a second wave of grief because six weeks before he died, our 42-year-old son-in-law just died suddenly in Sydney, leaving a 4-year-old and a 6-year-old.\n\nAnd my daughter. And totally unexpected, just completely out of left field. And he was the most wonderful human being. He was [00:02:00] American. And then later on, Ron died. And that was, I think I no, I was in denial of how sick he was. Every time we went to the hematologist, I would. Feel, oh, it wasn't that bad.\n\nIt could have been worse, but something happened to his spleen and he just said one night, I feel like I've got a pain in my chest. So I thought it might have been a heart. His heart went into hospital, didn't come out. And ended up in ICU for a week, which was horrible. Horrible. And then went into palliative care and died the next day.\n\nSo it was, but he had also been an orange sky volunteer, so I felt like I was carrying on the family tradition too by continuing to do that. But it truly did help me get out of bed. I had to, I had no choice. People depending on you, and without that, I [00:03:00] probably could have stayed. But everybody I know has said to me how well I've coped.\n\nAnd I think I've coped reasonably well. But I, I miss him. Of course .\n\nI do on my shift on Thursday, we've got, that's the longest shift we've had.\n\nIt's the oldest shift and we, the team, I've got the two boys I volunteer with, we've been together for years, probably five years. Or Russ has probably been there nearly seven years. And yes, they were supportive. I was very touched that the team leaders all went to Ron's funeral. Very unexpected. And they've helped me a lot.\n\nBut the interesting thing was that the friends. Where my shift on Thursday is the friends knew him too. That was nice, there was a consistency there. But I just I just love it. Absolutely love it. Are there particular things about it that you think are [00:04:00] more profound than others or because I think there's some parts of the, so just simple, but some parts thought out. I think it's, yes, the laundry's important obviously for. People's dignity and they have a right to that. But I think making them feel seen and heard, for me personally, that's really important and genuinely, calling them by name and remembering to ask them something.\n\nOne of my favorite quotes is from Maya Angelou says, people will forget what you said, forget what you did. But they will never forget the way you made them feel. And I really believe that. I think that is true for me, but I try to make that true for them too. So I'll, we'll talk about something that's meaningful to them.\n\nI think one of the trickier things is learning to respect and know the [00:05:00] boundaries because some people don't wanna share that much. And we've got a friend who we would, we are very frustrated. We really wanna be able to help him, but he feels that he has enough and he doesn't want to take anymore.\n\nAnd he struggles, but I've since found out he has got an advocate, which is really good. But that's a failing in the system. I think this particular friend is quite deaf and he's waited probably 18 months to get hearing aids, and I don't know how much they've shown him, but we had a volunteer on the shift one day who'd had some experience as an audiologist.\n\nSo she showed him how to put them in and he said, oh, I can hear now, but I don't, he's not doing it himself and we can't offer he's quite private. And he's quite proud, which we respect.\n\nI'm up to my nine years this year, and I wanna get my 10 years, then I'll get my unpaid long service leave.\n\nNo, I just, that is [00:06:00] a very concrete goal. I want to get to my 10 years. I've got no intention of leaving at this stage. Sometimes some of the processes that come from HQ can be a bit frustrating. I have to say though, I'd like this on record that my regional coordinator, Carolyn, is superb.\n\nShe is the best I've ever worked with. She is just amazing. Her level of support to me as service leader is immeasurable. So she's a buffer between me and the powers that be.\n\nWhat do you think or hope might happen in the next 10 years or in 10 years time? Oh, that's a good question. On a grassroots level, I hope they keep doing what they're doing. And I hope. They don't diverge too much [00:07:00] from that so that they're trying to do so many things and nothing gets done really well. I remember at the last summit I went to, they were talking about going to San Francisco, and I remember saying Then you need to get it working effectively here before you go anywhere else.\n\nI would like to see, a little bit more acknowledgement of a lot of the services. Like anybody who knew me 9, 8, 9 years ago knew that. I always said, we get forgotten down here. And it, I get that we are a long way away. I understand that. But there are times when we. We can't do the things they can do on the mainland.\n\nSo we left feeling a little bit out of things. But in terms of. The the volunteers, I think always uppermost in the minds of the staff should be [00:08:00] what the volunteers are doing because without the volunteers you have no orange sky, you have no ladder to climb, you have nothing. And I think I do what I can for, to acknowledge my team.\n\nWe've got a fabulous team of team leaders, wonderful volunteers, absolutely awesome. But sometimes it's nice to. Know that they're appreciated by others. And it's simple things like, it's our birthday in July last year. They put in the newsletter in the Spin Cycles services, birthdays.\n\nThey didn't put ours in last year. They forgot it. And that's, I know I get that we are one of however many services in Australia, but to us we are the service in Tassie. So that sort of thing upsets me a little bit.\n\nAnd I'm proud of Orange Sky. I'm very proud of Orange Sky. I'm proud to volunteer for it. I'm proud of what it [00:09:00] does. And it's, there's nothing better than when I drive to my shift on Wednesday.\n\nAnthony's there waving when I drive the van in, and, it's just such a positive experience all round. But I do think, I do think that they're going to have to be very careful that they don't lose sight of that up there. \n"
+        ],
+        [
+          "Norman Frank\n===\n\n[00:00:00] \n\nYou just gotta clip this thing on university right now. Your chest university? Yeah. This on your shirt. Got laughing. Alright. Oh, we're already filming. How's that? Ah, deadly. How you, you just need to tell me your full name and you can talk to me. Don't talk to me. Yeah. My name. Yeah. My name Norman Frank. How do you spell that?\n\nOh, don't ask me. I bus called me. Hey, look at how it might break too. Just never breaks. Yeah. Hey, um, you don't, do you know how to spell it or no? Oh, okay. It up. What? Make what? Ula. Yeah. I don't know how to spell Ula J too hard of me. That's JUI. No, B. When you introduce yourself, how do you like introducing yourself?\n\nI always hold myself, Norman Frank. Gilbert War Man, a local war man from this country, from [00:01:00] Nan Creek. But, um, my, my, my clan group from up north are come from a place called Bur Country from Phillip Creek. Yeah, that's my totem. White Kakadu. That's where I come. That's from my, that's from my father's, father's side family.\n\nMy mother, my mother's, mother's side, she's a, she's a, she come from a place called. Oh, that place put from Creek, um, Ali Naali. Yeah, it's Wild Possum and traveled down from North that my mother's side and my, yeah, my father's mother's side from here. Local butter from Nan Creek. She's a Naga from this country.\n\nYeah. How, how do you feel connected to Tenant Creek? I get, I feel connected in Tenant Creek because of my father. My father was, [00:02:00] uh, of this country. He was, uh, the policeman and from his mother's side. See, and that's my connection here from for, for Butta here today, as we living in this time. With my kids.\n\nMy kids stay only third, fourth generation from my grandmother. Yeah. What's um, what are some things around town that almost make you. Like worry about things. Are there things that are not, not right here at the moment that, no, I think everything's all good. 'cause we've got, we got the what to wear more land claim and plus we've got a few sites in the matchbox in the township.\n\nOf Nan Creek, like one of them is the cultural center in Yin Cano. It's one of the, one of the sites dead center of the town in town. So that's very important for us here today as we, as we work and live in this time [00:03:00] today with the people in Creek. It's awesome to hear like a positive like mindset and perspective.\n\nHow do you keep that, how do you, how do you stay positive or look like? Well, we call them, we call them really, really, really good and with our culture and our, our, our culture and our, our connection, how we keep our connection strong here today and how, how we live in Nan Creek. I haven't really had a chance to interview anyone that's specifically helping Outra from Willy Jura.\n\nCan you gimme a little short, what is it? Oh yeah. Willy Gunter. Yeah. It started backboard nearly 20 years ago with me and Simon and. The way I used to live at Utopia and how Simon used to live straight across in the doctor's house. He used to live in the doctor's house, and I used to live across the road in the old tin shed.\n\nNot very big, [00:04:00] very small. One PowerPoint, one tap. And Simon had a big flash house. And then he said to me one day and he said, look mate, one day I am gonna build you a house. And I reckon, oh, in your dream mate. And then 20 years later we. We, we, we are there now and then we started a project, get a get get will down.\n\nThat's how I got Will, will. And he asked me, what shall we call it? Well, I said, you know, to us standing strong in Rimu, we call it Will actually, but we cut it short. Now we call it means standing strong in one. Yeah. Such a good explanation. Um, what's your, what, what do you see as your role in, in this, in this?\n\nWell, I reckon me, I want to see a better future for our kids and better housing for mb brandy people, not only here and for people, [00:05:00] for the whole nation, for everybody around the country. You know, we're all struggling today for housing and so, so we started. I started Will Gun with, with Simon, and now today we've got, we got a good, good team of US Mob working now with Willar.\n\nAnd because I, MEIA and my Mrs. Serena, she, the ones helped me, supported me all way along with, with Simon and especially with me and. Always been there with me and try to try, try to get things going. And so here we are today. Now, you know, we we're a, we've got a project and we've got a got a, you know, business going now and hope, hopefully we waiting for this first house to be built for me out, um, out on my block.\n\nAnd if we, once we get that going, it'll be like an display house. Like these people in Sydney. They've got, they've got these houses in Sydney to people to go and have a look at. But this one is gonna be for all brandy [00:06:00] people. You know? It is not only for us here today in Nan Creek, it's for everybody, for all different tribes.\n\nAnyone can come along and have a look and it's gonna be, it's gonna be, it's gonna be, it's gonna be very culturally and properly so that. People can have a better way of living and something change. We don't want, we don't wanna go. We don't want to live backwards, like how we grow up. We grew up back in the seventies and eighties and back in the nineties it was pretty rough at them times.\n\nNow we want to see better way of living for our people and our kids and better life. Why? Why do you think it hasn't happened before? Like it's a big issue? Well, I think, I think the government didn't work and the architect didn't work with us. And collaborate how we wanna live and how we wanna, how we want our houses.\n\nNow we got our, we've got our own ways sold so that now we can collaborate with our own people, not only here. It'll be everywhere. [00:07:00] What's, and a lot of people got different culture, different way of lifestyle, and our cultures are all different. So. If you're gonna work with the next, with the next community, with the next mob people, you gotta make your work with them and ask them how they want it.\n\nThat's just the way how many people work. And you don't walk into a community until you talk to the traditional owners and the S so that you can work and talk to what, what do you think the outcome is for the next generation coming? Well. Uh, me, I wanna see in the next, next 10 years, later on, next 10 years, I wanna see changes.\n\nI wanna see my kids leading William Guna and I take over and my grandkids as well, you know, because I'm just, to some, I'm just opening the gateway for them. Something that they can have something to work on. And. Work [00:08:00] with the country and with, with Bombi people around, around in the Northern Territory especially.\n\n'cause we, we, we, we found it hard here in the territory, back in from the flour and sugar and tea days working in stations and living in the on stations. And then when everybody got their rights back, back in 1977, then you know, we all got kicked off the station and sent back into town, then got dumped in town.\n\nNow we are here in town, we. We live in the way the government wants us to live now and, and put us in these houses. They just say you're getting a house, but you don't really own that house. That house belong to the government. Yeah. Um, partnerships are hard sometimes. How have you maintained good partnerships with Simon?\n\nWell, I don't mean him get on really with that fella. Well, you know, we've been mates for a long time. He, well, when I first met him, he was only a young, young fella from Sydney and, you know, he was a little city boy. Every time I used to take him out Bush, [00:09:00] I always tell him, Hey mate, he looked like you're suffering as Simon.\n\nWhat, what, what, what do you like? And he would say, I'm all right. And I, and I always say, you know what, if I was you, you know where I would've been right now. And he would say, where? I always say I would've been back there. I would've been sucking on an ice cream or looking on ice cream and staring at that bridge back at Sydney.\n\nThat's what I always say to Simon, and I still did use that today on him sometime. Yeah, he come from a long way, that fella. And how do you, how do you bring new people in and who, well, we bring new people in. We, we, we. We work 'em out how they are. If you can work along with them many people or government, that's good.\n\nFrom Brady, I believe you. We all should be walk walking together. It's like these two snakes. My logo got here, the logo, it come from my country. It come from a totem, from a place called Jim Cargo, and [00:10:00] that's why I use this logo today. It's not only from today, it's a thousand billion years old. Desire. My old people used to put this on Shields on the ground.\n\nAnd now we've got her on shirts. We've got 'em on everything now, now letterheads. So, you know, it's, it's, it's flying really quick. Mm. Um, what do you think this idea of sharing knowledge means? Not just from an Australian perspective, but around the world? Like, what, what does that, well, that's the only way you, it's, it's, well, when we live in new technology today, it doesn't take much to get that message out there.\n\nIt's only you, only you only, you only can get interviewed here, like now, today, you know, that'll, that'll be out there one day and then, then, then that'll be passed down to the next generation. Not only we keeping it today, it'll be passed on from, from my kids to their kids, to their kids after them. So that's why it's really good to document everything now [00:11:00] while we can.\n\nWhat a crack in sunset we've got going on here. Yeah, mate. It is. I reckon it's beautiful. That's my own. How much does nature play in the design of Willy Hunter's building? Well, it works with, with the climate. We, we, we, we, we, we, we, we work with the climates and the way how we sleep and how do we move around in the house with our people, with our poisons and our mother-in-laws and our father-in-laws and our son-in-laws.\n\nIt's, it's an everyday life. From us and we gotta learn to adapt to it and try to work around it and try, try and make us all one. But, but our culture, we have to still keep our culture. Our culture is very important to people. Without your culture, I feel, I feel I feel lost with my strong. Yeah. Yeah, that's it.\n\nI was gonna ask, like you seem like you have a very strong [00:12:00] presence and focus and passion. What, what's helped you get to who you are today? Well, my passion is my kids shooter and my future, my. My next generation so that they can see. That's why I always, well, you know, we, we, we always, we always have our, have our ceremonies.\n\nThat's just how our ceremony been passed down from, you know, from generation to generation. I like to see something of me getting, you know, interviewed like this now, like here today to pass that down to my next generation so they can see what I'm talking about. Your partner's over here trying to wrap us up should rouse on him because, oh, this fellow is telling us bigger.\n\nYeah. Oh, Simon, I think we need to do round 2, 3, 4, 5, 6 maybe. What, every time I come back we should do another catch up because. [00:13:00] Somebody else doing that as well. Amazing. Even, um, NITV. Oh yeah. It doesn't, they, they've been done doing a few now even they'll follow us right down to Canberra when we went there working for our first funding.\n\nCool. Yeah. So awesome to yarn. I'd love to keep it going. Oh, that'll be good. Yeah. So when the next time you'll be back Yeah. We're, we're back in June. June. June, yeah. Yeah. And then, um, yeah, we should be here every quarter or so. Reckon. Yeah. Yeah, I, I do a lot of work in Alice Spring, so. Alright. No worries.\n\nThank you. Thank you brother. You way. Oh, I'll grab this father off you. Oh yeah. Otherwise I'll take it home. I've had a few people take them home. Yeah. I keep having to buy new ones.\n"
+        ],
+        [
+          "Freddy Wai - Friend - James St\n\n===\n\n[00:00:00]\n\nSpeaker 12: Yeah, I'm just basically been homeless , I'm a refugee from Papua Newa. Finally got my Visa last year, May 2nd, 2024. That was 16 days before my birthday, and it was a blessing year. And now I've been living in.\n\nAustralia for six months or something now. Yeah.\n\nSpeaker 13: What's life been like for you, I guess for the last little bit in Australia?\n\nSpeaker 12: Oh, I think Australia is the most beautiful country in the world, and I think Melbourne. Yeah, definitely is a beautiful place. Yeah, I've been in two places only that's in.\n\nDanon and Brook, the Sunshine Victoria in Melbourne. And I like it. Yeah, [00:01:00] I like both places. Yeah. But I became homeless just seven weeks ago seven months ago. So yeah.\n\nSpeaker 13: What's that experience been like for you?\n\nSpeaker 12: It's been challenging and I think it's rewarding too at the same time because I learned a lot of things I lost a lot too.\n\nBut there's a challenging part is losing a lot of friends. You are losing trust in everybody, especially the government. And then you tend to wanna blame and point fingers at, others. But at the end of the day, I think everybody deserves a place to sleep, place access to, water and electricity.\n\nAnd as for me, as a refugee. [00:02:00] Who seek for asylum in here. And I came and I got, they gave me asylum. I think these rights, I have to acknowledge that I need to make myself work harder to find another accommodation for myself. So I have a, shelter and. Electricity, water and all this.\n\nYeah. Otherwise, I'm not a human being, I cannot, I have to work harder to do this. Yeah. To find a house to live in. Yeah. Yeah. But yeah, it's all right.\n\nSpeaker 13: What was life like in, in Fiji before you came?\n\nSpeaker 12: Life was very hard. I think it's harder than. It is very difficult, harder than what I've harder than what I've experienced in my life in here.\n\nBut I've seen other people in here [00:03:00] too who are homeless who I think they face it harder than even in my country. I think my country is easier. In here, it's very difficult because it's twofold. You can see the good and the bad, but that's advantage and disadvantage from me leaving my country and from me living in here.\n\nLike in my country, you don't look at the clock. You don't really be punctual in Australia it is different. It's very difficult because the homeless people and all this, they're struggling because why they have to be punctual and pay fees and all these things and all, especially when they don't have job and all this is more difficult.\n\nYeah. But in my country, the only thing is the violence is the scary part. Yeah. The violence is, yeah. [00:04:00] There's no limit. That's the thing. So it's extreme violence. Yeah. So\n\nSpeaker 13: what made you come to Australia?\n\nSpeaker 12: Since we got my country got independence from Australia in 1975. After that, only like my parents. They're like citizens of Australia because they were born before we got independence, but they don't get recognized for that. They haven't got a, their citizenship or anything for me. Yes. I was born after 1975. I can get a, I can't get a, passport and all this fight for my rights to come here, but that wasn't the case.\n\nMy parents fight for the right to come here too, and then I fight for my right to come here. It doesn't make sense to me. It is no common sense, but it's all right. God put the law in for some reason. I don't know. We'll work it out later, but I think it's not right. It's not right because if you are born in a country while it's still Australia, [00:05:00] you are a citizen of Australia automatically.\n\nAnd I thought it was only my parents, but I find that, half of the Korean mob and the Torres Strait Islander mob and all the ma everybody, most of the aboriginals, they don't have the citizenship too. So I think we are all in the same boat. So there's nothing to, what was the question again?\n\nSpeaker 13: Why did you come to Australia?\n\nSpeaker 12: Oh yeah. Why I came to Australia? Yeah, because I know this this. My mother country, this is my homeland. This is my mother country, so I still have right to come here. But I didn't come. All my family and everybody, they came here before maybe 1997. Even, I don't know if I were, when I was younger, I came, I don't know.\n\nI can't remember because a lot of traveling. Around the country within PNG and here too, but I can't remember most of [00:06:00] it when I was younger. I only, the only thing I can remember is from 1993 up, when I started going to school. Yeah. After that there were a lot of tribal conflicts in my village.\n\nYeah. Yeah. So my parents have been like, they're basically like vol, voluntary workers. They're born again Christians. My father was a heavy diesel equipment fitter, and my mother was a principal at one of the secondary high schools in p and g, and then she became a community office officer for the mining company in my country.\n\nYeah. And she got some more degrees on top of her teaching and all this, and she. Yeah, she's basically the breadwinner of my family.\n\nAs a result, inherited a lot of land [00:07:00] back at home because most of my family, they come and grow up here, so my sister and my brother, and my mother's sister. So because of my land titles, my life is in danger. Because I received land royalties. Yeah. So they want to kill me. I had to take myself out of my country.\n\nYeah. Yeah. I'm the first born in my male in my country. In my family. Yeah.\n\nSpeaker 13: What's the situation daily for you in Australia now? What's the main things in which you're working on or working towards, or what do you do today?\n\nSpeaker 12: Yeah the first thing I'm working on is basically to get to know the people.\n\nKnow the system here, the street, the bus service is very difficult because if you grow up here, you can instinctively make decisions like what to do, where to go, what number to go. It is not like that. Every day I wake up to check the number again, [00:08:00] because I'm not sure which bus I'm getting on.\n\nAnd I keep on asking the traffic officers and all this, and the people here are very helpful and very, I think Australia is Australian and the community in Melbourne especially, they're good people. They help a lot. Yeah. And\n\nSpeaker 13: Are you using the Sky Service? What do you think of Orange Sky and what they're doing?\n\nSpeaker 12: I think orange sky, I've seen it where in, on TV and all this. And I think I really appreciate the work they do and yeah, I highly recommend the people who fund and support these services. Yeah. God bless you all, like you, you got a heart, heart of gold and I really appreciate your support for the sky orange. People, I'd like to be a volunteer too, to help wash the clothes for like this, but I'm not sure how it's gonna work because that's the only thing. I have. The trolley, if you can take the picture there it [00:09:00] is. Just the trolley there. Yeah.\n\nThat's my only problem because\n\nI never been in Australia, homeless in winter, but summer is all right. That's why I take a lot of clothes there in there. Okay.\n\nSpeaker 13: And what's why do you think like this idea of connection and being able to talk to people is important?\n\nThat's part of what Orange sky does. Why is, why do humans need other people and other people to talk to?\n\nSpeaker 12: Yeah. I think because it's very lonely world for me. For me, I think I'm lonely. I'm lonely maybe because. I enjoy other things and all this. Maybe I'm not I don't have a partner, that's why I'm lonely or something.\n\nBut I'm straight just for information looking for a girl. I have some of my partner ex-partners back in p and g, but since I come here, I have to start a new life, but it's very difficult for me. I can't get over it. Yeah. Like starting a new life here. Yeah. Yeah, I still have [00:10:00] my family back at home.\n\nYeah.\n\nSpeaker 13: What's like some things in which you do to connect with people in Australia\n\nSpeaker 12: In Australia, basically, I just most of the time I just say hello to people, meet them on the road. But sometimes I drink drink alcohol once in a while, and when I drink, I feel more open to speak to people and yeah, I meet a lot of people here.\n\nYeah. Yeah. But\n\nSpeaker 13: do you meet a lot of other people that are not from Australia and do you connect in that way as well or do you make most\n\nSpeaker 12: Yeah, I meet a lot of people not from Australia and Yeah. But I'm very curious about the, how the real Australian, like how the Australians are. The culture and all this, how they speak and all this.\n\nI try to follow, learn the accent, the lingo. But I think if they speak in the ling the slangs I don't understand. They, I seen a lot of, when they get to the, they start using [00:11:00] the slangs and all this, they know. Yeah. And it's a different level. Yeah. Yeah. I can't read it, but I understand.\n\nYeah, I understand. That's cool.\n\nSpeaker 13: What's the next sort of steps for you? What do you wanna do next?\n\nSpeaker 12: The next step for me is after I understand the system, I'm gonna be like, five years. Five years I won't work because that's, I promise that already, because five years, actually seven years I fight for my visa, and finally after seven years, I got it.\n\nSo seven years I will stay. I am like a, a baby, newborn baby. I'm still growing. When I become seven years old, I will understand what to do and then I will start working there.\n\nYeah. I will start working after seven years, but now I'm so mentally tormented because I've been institutionalized and I tried working.\n\nI was working with the [00:12:00] brick laying and all these things. I just walk one day. Yeah. But I couldn't I'm a process technician. Even just fixing a bicycle. I can't do it. I try to change the wheel, change that tube. I can't do it because I can't concentrate. It takes like over two to three hours just changing the tire.\n\nSo I've been mentally affected too. Yeah. I got stabbed here. Two times here. Two times here, two times here. I'm a victim of one punch coward assault. Yeah. They punched me here too. And I fell down. Actually I was on the balcony and they punched me and I fell down because I was dead drunk, so I fell down and the cement broke my jaw.\n\nI got four screws here. Four screws. Yeah. Yes. From my fractured jaw. And then I got hit by a, I got hit by a [00:13:00] car. It's like it was lady, she stopped by the traffic light. I was coming on a bike trying to go and do a inspection. House inspection. Yeah. I come and then there was green light was on. And then she stopped.\n\nAll the cars went and she stopped. And so I took off. When I took off, she took off again and she hit me again. And then she hit me. I went to the air five meters up, landed on my head, bro. Yeah, to my ligament, spine, ligament. And then what happened was the police come to question me, take me to the hospital in all.\n\nI said no, it's all right. It's not her because she was a Muslim lady. She just pick her children and she was crying too. So I feel sorry. Like I said, no she didn't do anything. And then I woke up and I went to the hospital myself. Yeah. And that's another that's the third incident I got.[00:14:00]\n\nSo I got a lot of injuries when I came to Australia too. Yeah. Yeah. What's, what other\n\nSpeaker 13: services do you use at the moment? What are the types of things in which,\n\nSpeaker 12: I use the sender link. I use the Salvation Army, I use the library for shower, and whenever I want to do a like con. Do internet, like search some things.\n\nFree wifi. I go to the library. I even use the console wifi sometimes when I don't have data. What else do I use? I use the bus services and the train services. Most of the times I don't have the, my key, but I think the officers I used to miss understand. But they're really there to help me. Yeah.\n\nI think. Yeah. Yeah. What,\n\nSpeaker 13: and what other things do you think would be helpful for you if someone was to be able to support? What are Yeah. Are most [00:15:00] important?\n\nSpeaker 12: Yeah. I think I would need support to, at least get a job. I really need support to get a job and a house like I'm mentally affected.\n\nI had a mental, independent, psych mental health psych assessment by a doctor, and he found out that I was mentally impaired and he is put a no enough in claim for my compensation. And he says, admit that, but I don't want the money because I don't know how to budget because mentally affected, I can't even work.\n\nBecause I get paranoid, I don't trust anybody. I don't even trust myself. The only thing I trust is I'm praying to God every night or something to gimme some, yeah. But yeah, sometimes I go crazy. Yeah, I try to take things in my own hands, but in my heart I know what is against my religion and I try not to do it.\n\nDo [00:16:00] it a lot, get angry at someone or get violent or something like that is no good. And I'm trying to learn how to live here. Yeah. But it's overwhelming because the culture shock. Yeah. Yeah. But I think it'll be all good. Yeah. Thanks to people like you and the Orange Sky team and all this, I think we are blessed to have, people who do this work and who support us like this. Yeah.\n\nSpeaker 13: Yeah. Awesome.\n\nSpeaker 14: Yeah.\n\nSpeaker 13: Done.\n\nSpeaker 14: Yeah. All right. We're gonna do."
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 38,
+      "nullValues": 0
+    },
+    {
+      "name": "Created",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "2025-05-15",
+        "2025-05-20",
+        "2025-04-14"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 39,
+      "nullValues": 0
+    },
+    {
+      "name": "File Profile Image (from Storytellers) (from Media)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          {
+            "id": "attciVacOlE9bSJ35",
+            "width": 2000,
+            "height": 1333,
+            "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/kxCgS42gd4zqQneYIsIt7g/wGY3pLH-02AzvuOU0Cj_7Ey_4dNL2kPhwKjVG-UgEsitl0iBk_kSfxRnWQI_5Q-IFmmkb1rB-qddeFH3wNLypxpSdVGFMmQOomoi_mpVxV0BeLYPC67fBVphss7Jv7a9N5lN4-3E9mQQHufclCEb7WuOndDohSmsL-8AbIgwx3w/2gRaNybTV5XhmEmR7MqGO84UctzP0as_pxuj4qU0g9c",
+            "filename": "20250511-IMG_2440.jpg",
+            "size": 1184510,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/TjXRVx3jbjVbZnWSe6IxFA/SXwoTha1lha_zH15ndYy1OnnHo1hfMTM2bIwonEQ7ugwDLoFc9FCsj2QoI0o3xVN6OubAJWvvwZD9iAxwLcTIabac9ciCIju_Fe-nfQPlLEY0_1eSbMa5uqf-kf4TBhFIVTjHrL32P4kkmO3Qy88Qw/RacrMIGlVb3fUGiKsUQOtJBCJ0CESIJ48RCJSEcXGpg",
+                "width": 54,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/_tdMO4jcZ73-oCABq70S2g/hMm6Yh-YBCurfXfYnDQfAe8wecf1TmQF4ote9qYrotzUJPO08MV8u1eQ2OVfIC86ZopVLh5Ziq-aqJru2lzcxmsfVlhVxcQDyXeJH1foDOkdmKqda28a7s4fQ2m_mJwNhAiuTPp0sLByXYlbNreGqw/tfQSjbpIKoRRTl1BWcHaxPcAubH8ja3H8fjidyEYYec",
+                "width": 768,
+                "height": 512
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/gq3wHuuB2tjD40exf2lnuQ/Xfo2MY6XwP3x72u2DmtoXn02l52ElJUmpqO40Xt7cmRi3bOzufXoZXJGYfXdJAcD5I0B3OYrgCZ-p17oD-AoVVQp49VoDQr_bnK3cT5fldd4QiETaUtRAw91d1bl6liEHKg0zag532dkSdqVGcxANg/PIe8gY2y2mXch2UuilWeEyN6U3zVX1_zyTJowDux3AQ",
+                "width": 2000,
+                "height": 1333
+              }
+            }
+          }
+        ],
+        [
+          {
+            "id": "attHQvp58b5fQyD8z",
+            "width": 2000,
+            "height": 1333,
+            "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/OLA9Llm31XT3kpccIw_PmA/KphkaWx0EEEzsXCrkPx2Rd-lzHpS3bs_jylHNY43vV_K97u9qwMUasLGZNvDZOuRb5BN-FeWlMHPT0E4cEF_9AbqojrWg63JhrAIljyMHMtQ6NNyrPfxanTAxLRicqcFp1VsZI7qZZMQMLb-FQd-HR1HEVyiXLNECOluA9l5B24kFTC-Msh3_hseWxZeY4FH/__qBapA6A6D673CQCIEE0cIWl4S8NE0OMpNwvfor6t0",
+            "filename": "Tennent Creek Day 2 Photo (2).jpg",
+            "size": 224864,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/To5U-ez_uYaXFy2qlCkuyA/AXPwr3SRcijoIgWqqaj5REqkOeLlZeBDtYBt28EzyMLZlvk5YJJ2e_sgF8WEfdE5L9Fm_6CuRqyCLGP30zKj6gNHnqgcKgVTSMCflFnt1M9MAQIM76X7TaBMNfDV7S0xIPaAGT54ACGdWo9rcbGSDA/vJ8Mw0pqtrapt1zYRaldfouZrDMvdkt_xCeCaCUtBDQ",
+                "width": 54,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/3Cr9-It2BAnaHQY7TUfReQ/3_Lwm-jFbzuV-7qCVXv3o3KfyDttmPNCcFilP4Gmft5A04Ydk18ERAdPQYxqE59gjVM1Q3Z1YKETrggerRvhXhqEPqsxQ5tDgno75AlghhAi994obf_2Mau4BcFf1XEXo196nZ4M2SVwppC7GsroiA/ukhEyYRn0SuMGUQsvFCkyiMdO219SwkCpocKqSna9gg",
+                "width": 768,
+                "height": 512
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/DPvkC5kDuqAvmxuYn0772g/5ch15-FcUI6tIjkU4XN1zfJo-jcYi9A7HIIMBP34hBmeXQZCPLc9ZdQwZUMD0zI4Npv-PjrUy2zux-xVJznObJBr-EZ1zX0zNC-XBmHkTrCkDnEsN_kgK15Uslur-QgVErWguahuwKAcYhfQnTCxrw/Dmk75X_U56DcqRfAz_l6W3fceyGfFeIE-Evh8fLuras",
+                "width": 2000,
+                "height": 1333
+              }
+            }
+          }
+        ],
+        [
+          {
+            "id": "attqONOmVuuusT7HC",
+            "width": 4032,
+            "height": 3024,
+            "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/VrPDsJ8--6IbeVN5Tkt2mg/QuJzfxxC5qfZI3DooFuqnESeTnlSI2tfvX4Mx3sic0tNR9yT5gAhdV_N8nBrn35soOYuAQk07EezX2d1-3OfMsjlqFJkLxSc8PW8oRF-C-GKUteprDnDE_x69sxkHp4dscl7oxoht2_s1LRzscvVvllEbhyFBrBNs0P3WIOToGE/Bfo8cqFsqWpE-1sv6HMmMRF41zIaA8OIu6ZCR-W2v14",
+            "filename": "image.jpg",
+            "size": 2637985,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/GrEXFMHGJt2ATG_Y78WWNg/hVMZpVxayRewr610G-uKhThGeycDsQbA6MEeXQYXy_QhRWb5VHCUAXM27VBz-zJ_Ob7Kg6lTny1N6kwXbPuuo4LxpQp1gvK-WFYTItw3ImQaxu_G6gYq76siFrbpCddZUL6lp7xBcURkJN0RXIrnmQ/GaKzZOh5pU1gy7HiFSTvIA-2fEv15n21VfFf33mexiw",
+                "width": 48,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/UztD3xiezvcQvLx5Htaujg/G23hvYAjynx7ImnyvmRW64JBGFDPU1WXMA9TvuhKqf0pS6V67kT5Rgan-gpcqwaXbUPa6gmyubkhakYDexvpOHTufg36iIW7c1rbJT1tYPbLM7-OAvx2Qf8n-ukPSXQPkXna4jGczI_a9T1RxYzWnw/9VAbNUZK1_vSl9hSeuCePRpOhVBzIhRNYU42knCSEMA",
+                "width": 683,
+                "height": 512
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/w3mPJwNCW2mBf_ENNmlfxg/v8T4-z22ny5eE9jvzSPl2lHlqnS7ECSHtjTtn3bfAVg-I31QhQtwCItMaUfHGp1BcqQByvdz2X_vVwYX1XcXFVCPx3QAcuLEvTOfwaSB4ThmE1OvOW_n-F75BXSyQHWgjPYzZjTI3bHNXeB8Nrrb0A/jB0nJQKzqilNkDGPeUCNtWnOjVKeNjhZc9immWNFnoo",
+                "width": 3000,
+                "height": 2250
+              }
+            }
+          }
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 38,
+      "nullValues": 0
+    },
+    {
+      "name": "Video Story Link",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "https://share.descript.com/view/R9Qh8YbZHqJ",
+        "https://share.descript.com/view/Jsv7imXGTxz",
+        "https://share.descript.com/view/WOHo3Db941r"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 38,
+      "nullValues": 0
+    },
+    {
+      "name": "Link (from Galleries) (from Media)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "https://photos.app.goo.gl/eQ235e8KjBnqjCwLA"
+        ],
+        [
+          "https://photos.app.goo.gl/eYNDyT5CYwUStZbs7"
+        ],
+        [
+          "https://photos.app.goo.gl/3Q11bFDGz1hD13QP9"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 27,
+      "nullValues": 0
+    },
+    {
+      "name": "Story Transcript",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "\\# Robyn Watts\n\n[00:00:00] \n\nRobin Watts. You want to know my life story? Okay. Got two girls. I started out life as a teacher, working life as a teacher.\n\nDidn't like that and got a job in local government, so I ended up the last job I had there for 20 years. And then after I retired, I discovered orange sky and my husband got sick. And he subsequently died. And Orange Sky, as I've told Nic, saved me. It made me get out of bed every day, try and push through the grief, and it's just been the best thing I've ever done, apart from having a lovely family.\n\nOh, I love it. I just absolutely love it. I honestly believe. [00:01:00] That we give a lot to friends, but they give just as much back. I go home on top of the world some days. Yeah. And I look forward to the days that I'm on shift. I love it. Really love it.\n\nIt was compounded, my husband had myeloma and the life expectancy of myeloma now is seven years, and he died after about. Three and a half. So he didn't last very long. But grief for my husband dying was a second wave of grief because six weeks before he died, our 42-year-old son-in-law just died suddenly in Sydney, leaving a 4-year-old and a 6-year-old.\n\nAnd my daughter. And totally unexpected, just completely out of left field. And he was the most wonderful human being. He was [00:02:00] American. And then later on, Ron died. And that was, I think I no, I was in denial of how sick he was. Every time we went to the hematologist, I would. Feel, oh, it wasn't that bad.\n\nIt could have been worse, but something happened to his spleen and he just said one night, I feel like I've got a pain in my chest. So I thought it might have been a heart. His heart went into hospital, didn't come out. And ended up in ICU for a week, which was horrible. Horrible. And then went into palliative care and died the next day.\n\nSo it was, but he had also been an orange sky volunteer, so I felt like I was carrying on the family tradition too by continuing to do that. But it truly did help me get out of bed. I had to, I had no choice. People depending on you, and without that, I [00:03:00] probably could have stayed. But everybody I know has said to me how well I've coped.\n\nAnd I think I've coped reasonably well. But I, I miss him. Of course .\n\nI do on my shift on Thursday, we've got, that's the longest shift we've had.\n\nIt's the oldest shift and we, the team, I've got the two boys I volunteer with, we've been together for years, probably five years. Or Russ has probably been there nearly seven years. And yes, they were supportive. I was very touched that the team leaders all went to Ron's funeral. Very unexpected. And they've helped me a lot.\n\nBut the interesting thing was that the friends. Where my shift on Thursday is the friends knew him too. That was nice, there was a consistency there. But I just I just love it. Absolutely love it. Are there particular things about it that you think are [00:04:00] more profound than others or because I think there's some parts of the, so just simple, but some parts thought out. I think it's, yes, the laundry's important obviously for. People's dignity and they have a right to that. But I think making them feel seen and heard, for me personally, that's really important and genuinely, calling them by name and remembering to ask them something.\n\nOne of my favorite quotes is from Maya Angelou says, people will forget what you said, forget what you did. But they will never forget the way you made them feel. And I really believe that. I think that is true for me, but I try to make that true for them too. So I'll, we'll talk about something that's meaningful to them.\n\nI think one of the trickier things is learning to respect and know the [00:05:00] boundaries because some people don't wanna share that much. And we've got a friend who we would, we are very frustrated. We really wanna be able to help him, but he feels that he has enough and he doesn't want to take anymore.\n\nAnd he struggles, but I've since found out he has got an advocate, which is really good. But that's a failing in the system. I think this particular friend is quite deaf and he's waited probably 18 months to get hearing aids, and I don't know how much they've shown him, but we had a volunteer on the shift one day who'd had some experience as an audiologist.\n\nSo she showed him how to put them in and he said, oh, I can hear now, but I don't, he's not doing it himself and we can't offer he's quite private. And he's quite proud, which we respect.\n\nI'm up to my nine years this year, and I wanna get my 10 years, then I'll get my unpaid long service leave.\n\nNo, I just, that is [00:06:00] a very concrete goal. I want to get to my 10 years. I've got no intention of leaving at this stage. Sometimes some of the processes that come from HQ can be a bit frustrating. I have to say though, I'd like this on record that my regional coordinator, Carolyn, is superb.\n\nShe is the best I've ever worked with. She is just amazing. Her level of support to me as service leader is immeasurable. So she's a buffer between me and the powers that be.\n\nWhat do you think or hope might happen in the next 10 years or in 10 years time? Oh, that's a good question. On a grassroots level, I hope they keep doing what they're doing. And I hope. They don't diverge too much [00:07:00] from that so that they're trying to do so many things and nothing gets done really well. I remember at the last summit I went to, they were talking about going to San Francisco, and I remember saying Then you need to get it working effectively here before you go anywhere else.\n\nI would like to see, a little bit more acknowledgement of a lot of the services. Like anybody who knew me 9, 8, 9 years ago knew that. I always said, we get forgotten down here. And it, I get that we are a long way away. I understand that. But there are times when we. We can't do the things they can do on the mainland.\n\nSo we left feeling a little bit out of things. But in terms of. The the volunteers, I think always uppermost in the minds of the staff should be [00:08:00] what the volunteers are doing because without the volunteers you have no orange sky, you have no ladder to climb, you have nothing. And I think I do what I can for, to acknowledge my team.\n\nWe've got a fabulous team of team leaders, wonderful volunteers, absolutely awesome. But sometimes it's nice to. Know that they're appreciated by others. And it's simple things like, it's our birthday in July last year. They put in the newsletter in the Spin Cycles services, birthdays.\n\nThey didn't put ours in last year. They forgot it. And that's, I know I get that we are one of however many services in Australia, but to us we are the service in Tassie. So that sort of thing upsets me a little bit.\n\nAnd I'm proud of Orange Sky. I'm very proud of Orange Sky. I'm proud to volunteer for it. I'm proud of what it [00:09:00] does. And it's, there's nothing better than when I drive to my shift on Wednesday.\n\nAnthony's there waving when I drive the van in, and, it's just such a positive experience all round. But I do think, I do think that they're going to have to be very careful that they don't lose sight of that up there. \n\n",
+        "\\# Striving for a Better Future\n\n\\~~People can have a better way of living and something change. We don't want, we don't wanna go. \\~~[00:00:00] We don't want to live backwards, like how we grow up. We grew up back in the seventies and eighties and back in the nineties it was pretty rough at them times.\n\nNow we want to see better way of living for our people and our kids and better life. I think the government didn't work and the architect didn't work with us. And collaborate how we wanna live and how we want our houses.\n\nNow we got our, we've got our own ways so that now we can collaborate with our own people, not only here. It'll be everywhere. \\~~What's, and a lot of people got different culture, different way of lifestyle, and our cultures are all different.\\~~\n\n",
+        "Freddy Short OS Clip\n===\n\nSpeaker 12: [00:00:00] I became homeless just seven weeks ago seven months ago.\n\nIt's very lonely world for me. For me, I think I'm lonely. I'm lonely. I have to start a new life, but it's very difficult for me. I can't get over it . Starting a new life here. I still have my family back at home.\n\nIt's been challenging and I think it's rewarding too at the same time because I learned a lot of things I lost a lot too.\n\nBut there's a challenging part is losing a lot of friends.\n\nOrange Sky, I've seen it on TV and I really appreciate the work they do and I highly recommend the people who fund and support these services . God bless you all , you got a heart, heart of gold and I really appreciate your support for the sky orange people, I'd like to be a volunteer [00:01:00] too, to help wash the clothes for like this, but I'm not sure how it's gonna work.\n\nI never been in Australia, homeless in winter, but summer is all right. That's why I take a lot of clothes there in there .\n\n\n\n"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 38,
+      "nullValues": 0
+    },
+    {
+      "name": "Video Embed Code",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "<iframe src=\"https://share.descript.com/embed/R9Qh8YbZHqJ\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>",
+        "<iframe src=\"https://share.descript.com/embed/Jsv7imXGTxz\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>",
+        "<iframe src=\"https://share.descript.com/embed/WOHo3Db941r\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 38,
+      "nullValues": 0
+    },
+    {
+      "name": "Location (from Media)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "Hobart"
+        ],
+        [
+          "Tennant Creek"
+        ],
+        [
+          "Melbourne"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 38,
+      "nullValues": 0
+    },
+    {
+      "name": "Quotes Rollup (from Media)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "recsvm2mdhw8khpX6",
+          "recF9UV4SMQR8YgxX",
+          "recqQqf4nhgkUV1D5"
+        ],
+        [
+          "recBB1VVsu0xIYZbW",
+          "recHRWklKfJrKZqfi",
+          "recjh2q6cx5FL4KT7",
+          "reca9pqWuFGxa605n",
+          "recLewwYQZiM2RXRT",
+          "recRxKTEEiYPBvZfw",
+          "recL6LHifL7xI4RHp"
+        ],
+        [
+          "recfMV7j5FRCCFL1r",
+          "rect7EXk8lVTTnBYE",
+          "rectkQy8rR27eK6IB",
+          "recmlrPrDBzFmbhw4"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 38,
+      "nullValues": 0
+    },
+    {
+      "name": "Storytellers",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "recWHJURnsk2rq6Yg"
+        ],
+        [
+          "recWY51Aq172ywWRw"
+        ],
+        [
+          "recSxR9ED03I7PuGg"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 38,
+      "nullValues": 0
+    },
+    {
+      "name": "Shifts (from Storytellers)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "recsVCxQUtq7S86eP"
+        ],
+        [
+          "recZ0LlHTsyQtlmA8"
+        ],
+        [
+          "recMnBRiSmrELgnVe"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 25,
+      "nullValues": 0
+    },
+    {
+      "name": "Storytellers Name",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "Robyn Watts"
+        ],
+        [
+          "Norman Frank"
+        ],
+        [
+          "Freddy Wai"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 39,
+      "nullValues": 0
+    },
+    {
+      "name": "Airtable: Last modified time",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "2025-05-20T01:35:39.000Z",
+        "2025-05-20T01:49:26.000Z",
+        "2025-05-20T01:35:39.000Z"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 39,
+      "nullValues": 0
+    },
+    {
+      "name": "Story Image",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          {
+            "id": "attSU77sE78uEIKSd",
+            "width": 2000,
+            "height": 1333,
+            "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/xj_bpoOkd6Apq9dzbc3mRQ/53jb-DZ7JEV5nHjdJD11mwLcx0EskhN_9jW1EOHKaSD2tEFo25aEqWQzb733wJcbSP6UYIYgwUX9iBgO5CsITrtMPFoSaO4WYGZeHkcBkb_Wajo0_EYYvOHx2UA48puh_Z2PtUZ7-UP0VDaYEhyrUM3zm2eN0tVglpLVJ8vd4r4/Jwu0mQX48bQjf45cXQPHVY7oQVfjMrTUw199jiEIPI4",
+            "filename": "IMG_2783.jpg",
+            "size": 224864,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/KMTCy1rL5w86GSH1gsRfwQ/B35hOD__V0ANqjY1p5PKsi95oVb2kVKdP8Vc-WMvOjhvdIQoKRXVHDs_Ffrd5lH-Bm8DLRbK-vOVHHN5vYAl3a57jVMaEEfMVGABS8ymlnK781ZWFgdfHrj2OBYFsuMwMrtCqlsw-6NwmmpW37H2Rg/vb40OqCqsn85rdkAvpcEHzH1fiVB8rMN_aHxI_5J-xE",
+                "width": 54,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/KktD5jCcVyfI9FCEosAv1g/s1tyn2i7q_I9re1YSqZisV8YgP0RRUC9YOCqwlODRF6ECmYBqVQQhe28h9fDFib3N3fCTowGz7UMHCU7YhZSa0hkGIXLK2AT3HWmx-vwsJFZpZnUATidASl1FC3M0mMiUTRqcD7pnFmiIieVrcdogQ/4rZQjJNtnRIS5jZVNIipGOl5My5WNSFiDtX148GuCQg",
+                "width": 768,
+                "height": 512
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/wb5ga3CavMQCXO1VqbW9VQ/m5--VdWqeNMQ7ZNwkOb6cX7eA4kLIjD3N387TsSOp6DILtzqYBcznW5Q7EVfsNiwb9mAtQ3_vCnMZA57T8tP_7HYrTyCCg8XMRLZ73Z_acPDQHa6nsucd8YNqbdgdvBiuukWbVcs0pnKPxFQTIWoJw/xfJ8y0wp4KQxyaUySmJ-j-aL96jZ0gaEoBqTmFfDFyQ",
+                "width": 2000,
+                "height": 1333
+              }
+            }
+          }
+        ],
+        [
+          {
+            "id": "attzrJ35NIF81hg8S",
+            "width": 2000,
+            "height": 1333,
+            "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/4KaZ97trxN5g-ncv-yFH8g/m0p-KyRsyXRy1DHxqsrAVUWqifY0AkQpXkbTmM_3E-lzTTr3NCQqiHTgy2ujbageJrh-c2YE8rcAM6sesD4oM4klgbZBPrCrlsFW9LCm9xh5xpyY22wwwh_4G8g9S1qJhwfO0rBKpHxz4cWzMx_vJR0Gzp33QQJ44O1KvLh7QhA/39Tas5gX1_xlWHRbu-gkcSAWXAQofpNvkzmJrMmu0xk",
+            "filename": "IMG_8822.jpg",
+            "size": 1085218,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/ID_58ks4YIqrR4KzW_U3QA/3FhcyOXUUGoYgP1XM4AR4fOvmDsNUt1h04JWBMGjTQUvE042CdcmWSXKxtSQgfB-fbB0pASpOK5y5MNz5zATl6CX2-m6k9hIo9B7o9iBrjvmo7Ke5jiF6L1wXldKs4g0Nd3DL3WUy2FlUIxgFCAv9w/4TtRRFGE5dle9xcSk4wvb6HnENN962sVYlwrKv9nf-0",
+                "width": 54,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/AIEuH-p_0uUpLzdkRU6uyQ/ac9FbxHiYfiKNdIQpn6tDMNFito3zh3PfuprDgtWB57hVdXYdhFJsalWi5NaN-jNwSc3kzVt3enZWlHvby7KaCs9SMHGpiuBF-Pv3u7v8wVGKWLm1Dv6jMBBnq7AGwuxMYkQ1Mysr7az3G0BO5k5JA/S8CFIu45-hYInlxoYB8aPZKK9-BFDZKWJyJVz3tTDEM",
+                "width": 768,
+                "height": 512
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/7PDzP56xSkYhrLP4f1507Q/M4sjkqZbQyA6v6k3pH0r-FAQbWDzzs3XoOzwl2F7ZDemJxpAUfYlZ6_aGsHtKLEnBR0kLJi0m_886eK91oVsGngPEBZ4-LsfgP1dFm8yd8JlXEjS3KIMMSQz1eudJOXN75ulCjuGQg0o2Wj-ijgSYA/k0N2SePNFAtZGm8iifO7SLPzF0dhZVZ0hkxMJ8LEzyQ",
+                "width": 2000,
+                "height": 1333
+              }
+            }
+          }
+        ],
+        [
+          {
+            "id": "attXYam25i8iiEuJW",
+            "width": 2000,
+            "height": 1333,
+            "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/mh_B0nxkzHm7ADjZSLqvMQ/tb8ACm338MrqaYe7V48bUwpKaROHuiUDZ9W-uN5TigOf2uE0qH4wNXfv-z9XQTP1hXqCi_e9ZUnaS-jgM1XKoKa2uB-BJh8rE6qO4JadGAYKh7e9us4YNFW0CHeXGRWG2jmQ2h4NYzrMZzgQs0mSuMdzS--K5dONk2Hdj_JOxsg/qOXVuoo8ZRlpvQqIwd1gjFhgJBvaXqZU6AX4IyL5acM",
+            "filename": "IMG_8988.jpg",
+            "size": 1144681,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/LAHf4u98mpDHlrddLi2uAw/5uOlZ0EoyjvFZhOS97UsahQVkw1s1ie_5DGh5-K0C_T5Va35JYItwuPngZAngUD_QkwOeUMskyEfKYRN3yHaeTfjxpgolrGzGEsn_HXrqT9mC6-ojjLqv65Q99O39vG6gHpNO7cU7RIrVeY_ldINwQ/CylVnBNbTCBJ0S0IPaCnvg_rb_Mrj_VHxrZj3-Fqfk4",
+                "width": 54,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/JfBfSxQhAPLdupOkjQ8jhQ/ymMn-x-tW22_etPyxKiAqkQpZBkdEYD8kMa_D_jFLl168pbxAdL9fKzFI-yzaGg7JE7LiMl3WiSvfYojnsJSDu6z0Ht-PLKHDZyTXUXdtFY6zCoWn1WB8fWrGKCCz-hhH3-Grux25TJCKAu35AuZyA/EaJxUcHOF9CbcCjAtGRbsGCTnyPFy0zuHQMNRqK0Czs",
+                "width": 768,
+                "height": 512
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/ExDhHm8I7nZQiO-K02KQZg/63MJPO6II4K9hyAAwfZGHGmTodJgu60SDdNkzvxVr67RW_5oIEaS-yvuRu6DZVhi1DaR_dhkfWbiCfFd3yjTHQ2cHnaojG4Rmroe4bSGktaf66MHaLErU5r7kJHay4KRXBhtLDKXGcauNMdw_bHNMQ/QxIlIbNrQf1lsgUrLSZg8glsmQLusldw85y5c_qDtP0",
+                "width": 2000,
+                "height": 1333
+              }
+            }
+          }
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 31,
+      "nullValues": 0
+    },
+    {
+      "name": "Story copy",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "\"We don't want to live backwards like how we grew up in the 70s, 80s, and 90s. We want a better way of living for our people and our kids. Now we can collaborate with our own people on how we want our houses.\"\n",
+        "\"It's a very lonely world for me... But it's rewarding too at the same time because I learned a lot of things. I lost a lot too.\"\n\nSeven months into experiencing homelessness, Freddy shared these powerful words with us. His story reminds us that behind every experience of hardship is a person with hopes, dreams, and a desire for connection.\nWhat really touched our team? Freddy's wish to volunteer with Orange Sky! This full-circle moment shows how the simple act of conversation and clean laundry can spark belonging and purpose.\n#ConversationsMatter #MoreThanLaundry #OrangeSkyStories\n",
+        "\"I think certainly there's certainly more to Orange Sky than doing people's washing. And we've become quite close to the point where if they're not here, I worry about them.\"\n\nThis volunteer captured what makes Orange Sky special – the genuine connections that form between volunteers and friends. What starts as washing clothes often grows into meaningful relationships built on trust and mutual care.\nOur volunteers don't just provide a service; they become part of a community, one load of laundry and one conversation at a time.\n#BeyondService #CommunityConnection #OrangeSkyStories\n"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 28,
+      "nullValues": 0
+    },
+    {
+      "name": "CMS-B: Action",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "Re: Item encountered error",
+        "Re: Item encountered error",
+        "Re: Item encountered error"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 9,
+      "nullValues": 0
+    },
+    {
+      "name": "CMS-B: Message",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "{\"message\":\"Validation Error: Field 'name': Field is required\",\"code\":\"validation\\_error\",\"externalReference\":null,\"details\":[]}\n",
+        "{\"message\":\"Validation Error: Field 'name': Field is required\",\"code\":\"validation\\_error\",\"externalReference\":null,\"details\":[]}\n",
+        "{\"message\":\"Validation Error: Field 'name': Field is required\",\"code\":\"validation\\_error\",\"externalReference\":null,\"details\":[]}\n"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 9,
+      "nullValues": 0
+    },
+    {
+      "name": "CMS-B: Sync time",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "2025-05-20T01:49:26.190Z",
+        "2025-05-20T01:49:18.357Z",
+        "2025-05-20T01:49:34.115Z"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 9,
+      "nullValues": 0
+    },
+    {
+      "name": "Airtbale record ID",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "31",
+        "28",
+        "34"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 9,
+      "nullValues": 0
+    },
+    {
+      "name": "Watermark",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "WATERMARK_1: 12347",
+        "WATERMARK_1: 12356",
+        "WATERMARK_1: 12362"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 22,
+      "nullValues": 0
+    },
+    {
+      "name": "Permissions",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "Limited commercial use",
+        "Limited commercial use",
+        "Limited commercial use"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 22,
+      "nullValues": 0
+    },
+    {
+      "name": "Status",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "Draft",
+        "Draft",
+        "Draft"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 22,
+      "nullValues": 0
+    }
+  ],
+  "insights": [
+    "Key identification fields: Title, Story ID, Video Story Link, Video Embed Code, Storytellers Name, Airtbale record ID",
+    "Connection fields to other tables: Media, Transcript (from Media), File Profile Image (from Storytellers) (from Media), Link (from Galleries) (from Media), Location (from Media), Quotes Rollup (from Media), Storytellers, Shifts (from Storytellers), Storytellers Name, Story Image",
+    "Rich content fields: Transcript (from Media), Story Transcript",
+    "Media/file fields: File Profile Image (from Storytellers) (from Media), Video Story Link, Link (from Galleries) (from Media), Video Embed Code, Story Image"
+  ],
+  "analyzedAt": "2025-06-11T06:29:34.093Z"
+}

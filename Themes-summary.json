@@ -1,0 +1,117 @@
+{
+  "tableName": "Themes",
+  "recordCount": 839,
+  "fields": [
+    {
+      "name": "Theme Name",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "Building Trust and Relationships",
+        "Hygiene Practices",
+        "Identity and Cultural Heritage"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 839,
+      "nullValues": 0
+    },
+    {
+      "name": "Description",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "Establishing connections with the community, especially children, through trust, respect, and engagement to create a positive impact.",
+        "The transcript mentions hygiene practices like washing face, brushing teeth, and showering.",
+        "This theme covers Jonathan's dual cultural heritage from Greece and the UK, exploring his upbringing and how his background impacts his current outlook."
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 839,
+      "nullValues": 0
+    },
+    {
+      "name": "Related Media",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "recoqJdQLCF0GMi0v"
+        ],
+        [
+          "recJccGGW9K3cRm2n"
+        ],
+        [
+          "recBrkrph3c1SDluQ"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 811,
+      "nullValues": 0
+    },
+    {
+      "name": "Quotes (from Related Media)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "recgkNy7dKydXIUmQ",
+          "rec8kmVz1Wth9yXqc",
+          "recfnKltAiv38SN9t",
+          "recHIrBiqSnTDhyTI",
+          "recRf6wY0Ttw8JheK",
+          "recWysTFW5vK4xJRn",
+          "recm95VaahqQNMV21"
+        ],
+        [
+          "recAvugLXlFqKI771",
+          "recC0mIX7crhDo60q",
+          "rectn1tTfYFGYBqW3",
+          "recKSu4yky5DhocLs",
+          "recGoK1ZeCoVrVF3F",
+          "rec9sakffVmuXvZFM"
+        ],
+        [
+          "recBI5J7tVL5MD7N3",
+          "rec8rPbkS8KltwCi9",
+          "recMoMSD5gmvwJLyR",
+          "rec8JwseyN2y4uEzj",
+          "rec4RE0FuZltBL5gr",
+          "recqlu63sRYts9pOd",
+          "rec60zof6DA8vFzQF"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 803,
+      "nullValues": 0
+    },
+    {
+      "name": "Storytellers Rollup (from Related Media)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "Uncle George"
+        ],
+        [
+          "Migrant Home group"
+        ],
+        [
+          "Jonathan Xenakis"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 839,
+      "nullValues": 0
+    }
+  ],
+  "insights": [
+    "Key identification fields: Theme Name",
+    "Connection fields to other tables: Related Media, Quotes (from Related Media), Storytellers Rollup (from Related Media)",
+    "Rich content fields: Description"
+  ],
+  "analyzedAt": "2025-06-11T06:29:37.766Z"
+}

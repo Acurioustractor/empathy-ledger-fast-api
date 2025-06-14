@@ -1,0 +1,77 @@
+{
+  "syncedAt": "2025-06-11T06:29:46.529Z",
+  "baseId": "app7G3Ae65pBblJke",
+  "tables": [
+    {
+      "table": "Stories",
+      "records": 39,
+      "fields": 25,
+      "insights": [
+        "Key identification fields: Title, Story ID, Video Story Link, Video Embed Code, Storytellers Name, Airtbale record ID",
+        "Connection fields to other tables: Media, Transcript (from Media), File Profile Image (from Storytellers) (from Media), Link (from Galleries) (from Media), Location (from Media), Quotes Rollup (from Media), Storytellers, Shifts (from Storytellers), Storytellers Name, Story Image",
+        "Rich content fields: Transcript (from Media), Story Transcript",
+        "Media/file fields: File Profile Image (from Storytellers) (from Media), Video Story Link, Link (from Galleries) (from Media), Video Embed Code, Story Image"
+      ]
+    },
+    {
+      "table": "Themes",
+      "records": 839,
+      "fields": 5,
+      "insights": [
+        "Key identification fields: Theme Name",
+        "Connection fields to other tables: Related Media, Quotes (from Related Media), Storytellers Rollup (from Related Media)",
+        "Rich content fields: Description"
+      ]
+    },
+    {
+      "table": "Media",
+      "records": 190,
+      "fields": 24,
+      "insights": [
+        "Key identification fields: File Name, Video draft link",
+        "Connection fields to other tables: Storytellers, Themes, Description (from Themes), Theme (from Quotes), File Profile Image (from Storytellers), Project (from Storytellers), Shifts (from Storytellers)",
+        "Rich content fields: Summary, Transcript, Description (from Themes), Reflection Transcript (from Post-Shift Reflection)",
+        "Media/file fields: File Name, Video draft link, File Profile Image (from Storytellers), Link (from Galleries)"
+      ]
+    },
+    {
+      "table": "Storytellers",
+      "records": 187,
+      "fields": 56,
+      "insights": [
+        "Key identification fields: Name, Unique Storyteller ID, Video draft link Rollup (from Media), Video draft link (from Media), Video draft link (from Media) 2, Preferred Name, Video Story Link (from Stories), Video Embed Code (from Stories), Title (from Stories), RAW Video and photo URL",
+        "Connection fields to other tables: Media, Themes (from Media), Summary (from Media), Quotes (from Media), Project (from Media), Description (from Themes) (from Media), Transcript (from Media), Theme (from Quotes) (from Media), Location Rollup (from Media), Video draft link Rollup (from Media), File Path/URL (from Media), Video draft link (from Media), Video draft link (from Media) 2, Galleries (from Media), Link (from Galleries) (from Media), User who added story, Shifts (from Media), Stories (from Media), Website themes, Quotes Rollup (from Media) (from Stories), Video Story Link (from Stories), Story Transcript (from Stories), Story copy (from Stories)",
+        "Rich content fields: Summary (from Media), Description (from Themes) (from Media), Transcript (from Media), Story Transcript (from Stories)",
+        "Media/file fields: File Profile Image, Video draft link Rollup (from Media), File Path/URL (from Media), Video draft link (from Media), Video draft link (from Media) 2, Link (from Galleries) (from Media), Magic Link URL, Video Story Link (from Stories), Video Embed Code (from Stories), RAW Video and photo URL"
+      ]
+    },
+    {
+      "table": "Quotes",
+      "records": 1035,
+      "fields": 3,
+      "insights": [
+        "Rich content fields: Transcript Reference"
+      ]
+    }
+  ],
+  "totalRecords": 2290,
+  "totalFields": 113,
+  "allInsights": [
+    "Key identification fields: Title, Story ID, Video Story Link, Video Embed Code, Storytellers Name, Airtbale record ID",
+    "Connection fields to other tables: Media, Transcript (from Media), File Profile Image (from Storytellers) (from Media), Link (from Galleries) (from Media), Location (from Media), Quotes Rollup (from Media), Storytellers, Shifts (from Storytellers), Storytellers Name, Story Image",
+    "Rich content fields: Transcript (from Media), Story Transcript",
+    "Media/file fields: File Profile Image (from Storytellers) (from Media), Video Story Link, Link (from Galleries) (from Media), Video Embed Code, Story Image",
+    "Key identification fields: Theme Name",
+    "Connection fields to other tables: Related Media, Quotes (from Related Media), Storytellers Rollup (from Related Media)",
+    "Rich content fields: Description",
+    "Key identification fields: File Name, Video draft link",
+    "Connection fields to other tables: Storytellers, Themes, Description (from Themes), Theme (from Quotes), File Profile Image (from Storytellers), Project (from Storytellers), Shifts (from Storytellers)",
+    "Rich content fields: Summary, Transcript, Description (from Themes), Reflection Transcript (from Post-Shift Reflection)",
+    "Media/file fields: File Name, Video draft link, File Profile Image (from Storytellers), Link (from Galleries)",
+    "Key identification fields: Name, Unique Storyteller ID, Video draft link Rollup (from Media), Video draft link (from Media), Video draft link (from Media) 2, Preferred Name, Video Story Link (from Stories), Video Embed Code (from Stories), Title (from Stories), RAW Video and photo URL",
+    "Connection fields to other tables: Media, Themes (from Media), Summary (from Media), Quotes (from Media), Project (from Media), Description (from Themes) (from Media), Transcript (from Media), Theme (from Quotes) (from Media), Location Rollup (from Media), Video draft link Rollup (from Media), File Path/URL (from Media), Video draft link (from Media), Video draft link (from Media) 2, Galleries (from Media), Link (from Galleries) (from Media), User who added story, Shifts (from Media), Stories (from Media), Website themes, Quotes Rollup (from Media) (from Stories), Video Story Link (from Stories), Story Transcript (from Stories), Story copy (from Stories)",
+    "Rich content fields: Summary (from Media), Description (from Themes) (from Media), Transcript (from Media), Story Transcript (from Stories)",
+    "Media/file fields: File Profile Image, Video draft link Rollup (from Media), File Path/URL (from Media), Video draft link (from Media), Video draft link (from Media) 2, Link (from Galleries) (from Media), Magic Link URL, Video Story Link (from Stories), Video Embed Code (from Stories), RAW Video and photo URL",
+    "Rich content fields: Transcript Reference"
+  ]
+}

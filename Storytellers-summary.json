@@ -1,0 +1,1331 @@
+{
+  "tableName": "Storytellers",
+  "recordCount": 187,
+  "fields": [
+    {
+      "name": "Name",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "Greg Graham",
+        "Terina Ahone-Masafi",
+        "Bernie Moran"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 187,
+      "nullValues": 0
+    },
+    {
+      "name": "File Profile Image",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          {
+            "id": "attpLbf3sRbTRiDuq",
+            "width": 1200,
+            "height": 800,
+            "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/3vODnsKPj8sHCVu9JboMug/_uhojhBmLn8l_oe7lOKIpGAw1tqj2E440YMyjIU1BbrR0E27nRsJg_k7VBknNJtHYiPCXSbyZv6-gfzpGNmphCWxFe6AcBl-kN8_UV6GsaV2drsQmnYiUdfc3w-dUklEs49C5iJh3tOmRtYeuuZuEnZ3LmevGh772ZIhqOMobWzy00OqRJWZ39Q13ZRoSSKt/95orysihIPhjOjivR2voPVgcjADi732BnxgLO4xYHzQ",
+            "filename": "Greg_Orange_Sky_Newcastle.jpg",
+            "size": 990349,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/Ct751agU8XujQSGYsbMWKw/PPHgFwvJhv_97cRcedm7lfg2KWylKEgSdqJrJ7i3CQbpBZZvWCWFI6fqE2e9YFyYRX5K5_ALHYGXJi3okSj5gn-xW1FO746geCm6ZlOj8akLae_TnaLvjLTKzTbm3I_HItGDSncwOJ65aKYD8hBIPg/yS8HXY-fC0Ev8pSMp01iEcLhTMzQ7GbqJmahWWjZOaQ",
+                "width": 54,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/uViPBDewPVW_4duPrGpChQ/lIfTMg5ocvwQX5qurFlagQUTf3X3QOmICEJTWbbF2j3-TV2qNWIV4I1ii6SGI96Q0b5gEgXkX1LGtdrAHEHKyZc82kesjdvtnSaKo84Cu_BfEe8IAB6vQJ0XRWGjIH7fsxG2UJVjLxE0wzEdPW6hdQ/UZrzopDLdHXP5uzKZCA1-hZGXzExzAHr2XVU6lWVfe4",
+                "width": 768,
+                "height": 512
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/bwu8oD6UjPzn2jHzV9YhcA/e8dzufd3l5bAIUOJ9Dj5-ch1Pfi6xDdNYAVk72XFwKCEhKqMs969dCzvSAyUgK7iIgvDUOTiW9zJhASNgaNypJiTiN1i--JNpBJYSIeEnPWfT3qHlijidcw0vqJZ9WLiiodC_MM7QU6jbdztQ3gMlQ/1J7J0wbyALlFvsjHcF3nRHRaBBDN5Lkz1Mt9Og4DAbY",
+                "width": 1200,
+                "height": 800
+              }
+            }
+          }
+        ],
+        [
+          {
+            "id": "attAzWSULBjhnfuLq",
+            "width": 2000,
+            "height": 1333,
+            "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/vJPnnEqwYIz6CcFKkWYquA/Sn0Y_MIcTE6jaEZJtI4uq6yYr0hyBAHsPqKTmu2IuDKoFlz42fjju9PQAkYMaHij1Ud2hrG5Lf7V8yLf7qJxRGYNV_AIypWNOdd5V3Ab9zxqRVmam21a5DK-CogblPgXOza5UXO3A5gmDgIl0qXfjopZlANXBZiBi0mU64UEf1Y/pLdz5WCmcH4kycme2fQMHAAmTsR--sOu-kQWyaIuusU",
+            "filename": "IMG_7312.jpg",
+            "size": 1332835,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/i8uAWKXddF6W5WIdGLwF7g/FpxV_Zz7qU7c4HxyivHOtGh9K5MEecMWmjXn26bKDqRXyzNqT9K2Ac8QMShbht75q-TtQyDqK2wUXG8USeeslmmG38uzB76X8wKKM9j9LDimbx5F_cRzF47qMLNkDy1q-suVVkN_9XaPQVSer-fSFg/SDs_g4ovxqQJYDCS7c1z4TgtcHa_dyI6Ril0trWJCC4",
+                "width": 54,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/SLPCDphVtlQ8kyCs5va3pQ/LP_9IyqVqgYqApc9awETJtiwUGXTqKeeCCUoIzuBjmuorjdTdrWpugyrItDSQLptV1pPGG6QZjy3tJ09zPiMSufLvEqUMYBXHYJn3YZyogKbjimTuqotsIRePRhbmYT7NAY3IYbbrDy40z1b76JlRA/-Fi8gxbzo9UkIFp9McAxMBpmpRiKavn9qN9pVCyuBBk",
+                "width": 768,
+                "height": 512
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/oe2gI0TEc-aGYbAserK2ng/EefIdPx3Wugxrr_9xN8N89pRkzT7ZKLcoVrk_rVb_-WM_M1-hhEK6-iNk-hQTUhGZRZg6optnqGPn6Q0EuQ-P7eAjRCE_HLGCB2sxpy_boENO3Pwg-Y86rF_OGHF4nsF2hhFjlKGMvg_ku7a8lRQGQ/wbshqahXx9r10f2zvfLbhpHeAihRXPsfd4ihFAHwobo",
+                "width": 2000,
+                "height": 1333
+              }
+            }
+          }
+        ],
+        [
+          {
+            "id": "atttFY6se2cratGYc",
+            "width": 2000,
+            "height": 1333,
+            "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/HvAW31C3gi8b0Ers4JRBHA/eFY3W-wWEIRZ6z-K5AMvsRd7eEM4hLICQkK3xPbbFPhW4Csv89xxuNK5B9zDDDTKVoIx0eAwaK_hQ2YzV_iiuGPqVep8e57Vfk1yikqD7VpEHsQiOJPjmeEnbD7_CPyKB5l1NSuPULudGeD8DA_74v_Ig3CpIYFIdEGuKORBUiw/zNkOUqlgAF4Vs5a62pN_ZE3x8GC5NWm9OWhcrjRd3Ok",
+            "filename": "TOMnet LR-88.jpg",
+            "size": 1086438,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/Mj3NDxABfzOXGADnm-eeYQ/VYZZPiQoF9fIRkmqK96c-XQwQy8IO95VgNqrsTgMrzPYtHk_5awqahJ3B4-WV4pdQUfGxwr50UIOKDDloa1ogUdSTl7SMUsPS8BgcUkOEdENb0N-fuv7uJgcBYsujhHLzJ3ixGXwJB2BKiTvRod3AQ/L4MnipNdaT8db4xYE2lJETIgGsWx0csFOxkxsEpMzGE",
+                "width": 54,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/IYuYFX0g0owh-9jdR1_LLw/QgrbuhaDwWvp61u7EXB3LseBCazWy-a0sfSRPtq6O1SBuJHaZujAJoT6QU4viizSOrrPoPF0YfsQIz4BoZWsPUfakbQWn0m3hVK1avf_BEoFCn5z7G-YWoL-us-njXiwp22eGwhVyc-uEJoP66EZgQ/z-mIfMmRXePd_E5ffD8ljfFRrvvY9RkyvSEQ1033DNs",
+                "width": 768,
+                "height": 512
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/4I1eghi6SBAu8Vbdrvbs9g/cODipu2htOykx3HRER6T6Xx9mmK-Kp1_GDLEp0e513hcfenEQGYunJK12vi5udlICB2hi5-MjEu4PI6bdotDwZ7_I8NSllzswmMjwHa-pKjpkZV7GBHdV9kIxCqCnyqmwnpCAYqViuhtMI9BB0eZvg/JGa_VIIiVlfkfH6rKPfCINvJn-Tcs2nDHDG6HZOVBrk",
+                "width": 2000,
+                "height": 1333
+              }
+            }
+          }
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 172,
+      "nullValues": 0
+    },
+    {
+      "name": "Project",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "Orange Sky",
+        "Orange Sky",
+        "TOMNET"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 180,
+      "nullValues": 0
+    },
+    {
+      "name": "Media",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "recVC6Ne4C5udx85c"
+        ],
+        [
+          "recBEC7KXdnEyxU7Y"
+        ],
+        [
+          "reca4OHS9INYa3UmH"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 177,
+      "nullValues": 0
+    },
+    {
+      "name": "Themes (from Media)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "rec2RmrHdm13jsmbK",
+          "recDNk9JjCFPmzqpd",
+          "recJDQLZZMWgAPXsN",
+          "recBgBi9QT3pQFBzR",
+          "recvowEkpvVfUmnEi"
+        ],
+        [
+          "recyZe8sz3e02F1Xe",
+          "recdnAguSkb6t2aaA",
+          "recWxJqRlevhzXUSJ",
+          "recWcdloM7pj8iFFT",
+          "recjwcHTzTvuHvjfT"
+        ],
+        [
+          "recsNhu0w32gbiPPS",
+          "reclPKNmTYHCMG6Fx",
+          "rec54wNndtS5ZXKX0",
+          "rec0bDkbqGsY0QfnN"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 177,
+      "nullValues": 0
+    },
+    {
+      "name": "Summary (from Media)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "The transcript features a conversation with Greg Graham, a retiree volunteering with Orange Sky to help people experiencing homelessness by providing laundry services and having conversations. Greg discusses his experience volunteering, the impact it has had on his perception of homelessness, and the importance of personal interaction in understanding others' struggles. He also praises the support from Orange Sky organization and the strong brand recognition."
+        ],
+        [
+          "Terina Ahone-Masafi, a 29-year-old in Australia for 11 years, enjoys art, music, and athletics. She appreciates Orange Sky's customer service and support despite being homeless. She came to Trambi for showers after couch-surfing. Describes friends as a strong connection. Thinks Orange Sky volunteers are welcoming, professional, and interesting to talk to."
+        ],
+        [
+          "Bernie Moran discusses his childhood experiences traveling with his parents and the photography equipment his dad used. He talks about his background, including growing up on a farm in New South Wales and moving to Toowoomba."
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 177,
+      "nullValues": 0
+    },
+    {
+      "name": "Quotes (from Media)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "rec0syptm2jTHVcHj",
+          "rec42yNW4DTHeAugW",
+          "rec6gFAPYcLjkzCFx",
+          "recCOp9hhV43MF5YD",
+          "recwgrWe2FDzFV6rq"
+        ],
+        [
+          "recbDBaNQs31bPfhj",
+          "rectK4xTQNEUFKQkF",
+          "recXAFDrDJec4IuZI"
+        ],
+        [
+          "recXmvWWC2FtwmZJX",
+          "reck2HWkEb2p4TySQ",
+          "recLcHHk8XMD973ws"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 176,
+      "nullValues": 0
+    },
+    {
+      "name": "Project (from Media)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "Orange Sky"
+        ],
+        [
+          "Orange Sky"
+        ],
+        [
+          "TOMNET"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 166,
+      "nullValues": 0
+    },
+    {
+      "name": "Description (from Themes) (from Media)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "Discussion about growing up, living, and changes over time in North Queensland, including the development of infrastructure.",
+          "Post-retirement activities, mainly focusing on volunteer work with Orange Sky, a laundry service for the homeless.",
+          "Insights and perceptions about individuals affected by homelessness through direct interactions and conversations at Orange Sky.",
+          "Reflections on prior work experience in the mining and heavy earth moving equipment sector, including working for a caterpillar dealer in Newcastle.",
+          "The impact of volunteering on personal development, understanding, and attitudes towards societal issues, mainly homelessness."
+        ],
+        [
+          "This theme covers Terina's age, origins, and the time she has spent in Australia, providing insights into her personal history.",
+          "Terina's passion for art, music, and athletics is outlined in this theme.",
+          "This theme highlights Terina's reasons for engaging with Orange Sky, focusing on her homelessness status and appreciation for the organization's customer service.",
+          "Terina's transition from couch surfing to availing services at Trambi, including the reason for the move and the benefits offered, is captured in this theme.",
+          "This theme discusses Terina's beliefs about friendship, emphasizing the importance of connection, understanding, and mutual support."
+        ],
+        [
+          "This theme reflects the development and changes in technology, as exemplified by Bernie Moran’s experiences with photography tools from analog/distance meter to modern ones.",
+          "This presents an intimate look into Bernie's personal life, originating from his birth place, family experiences, such as his father's death and his mother's remarriage.",
+          "Bernie discusses how people from his birth town, including himself, have moved to Toowoomba, which indicates a theme of migration or geographic relocation.",
+          "This theme emanates from Bernie's tale of having to leave the family farm and seek employment in town due to a prevailing drought. This signifies adaptability to situations or life changes."
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 177,
+      "nullValues": 0
+    },
+    {
+      "name": "Unique Storyteller ID",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "ST-rec0EkEZIAqUOAhYG",
+        "ST-rec1L7AGenWn9GID1",
+        "ST-rec1NgpxuCWWJ9cYJ"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 187,
+      "nullValues": 0
+    },
+    {
+      "name": "Transcript (from Media)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "from Mackay but you know North Queensland they're talking about down south it's South of Rockhampton yeah and I'm talking about Sydney yeah yeah yeah my old man the day he finished his apprenticeship he got on his 125cc motorbike in 1955 and rode out of Mackay never to return oh really yeah Mackay to Rocky was all dirt still at that stage yeah there was no bitumen North of Rockhampton I was in Mackay last few weeks ago I don't mind it all right got a lot bigger yeah all right that'll do right it's your name and spell it that's cool too yeah when you look at me it's all cool okay yeah I'm Greg Graham g-r-e-g-g-r-a-h-a-m cool and tell us a little bit about yourself I guess what's a couple of couple of key key points that what people know about you yeah I've been retired now for three years and working with Orange Sky for about two and a half for those three years um predominantly here but I cover the odd shift shortage if we've got a sort of a group chat that if people are short and they jump on and we go and help out so I live locally not far from here and um yeah it's been a good thing for me in retirement it's been a good opportunity to get out and about and do something different to what I did for 40 odd years at work what'd you do for work I worked in the heavy earth moving and mining equipment sector so worked for the caterpillar dealer here in Newcastle for the last eight years before I finished up 21. I don't know if I have a breezy caterpillar deal or not I've got a couple of thousand there's probably a few of them in there yeah I might know him Marshall's his name I can't remember his name um Cole what's um what's what's come to Orange Sky like for you how does it feel that feels pretty good yeah we've got a regular group of people that we help with their laundry here and together with the the lunch etc that Catholic Care put on so it's yeah it's kind of a knit little group and then we have a few people who you know probably aren't that regular but the regular people are all super friendly and I'm happy to be part of the whole Orange Sky experience and like it's um laundry and stuff yeah so we wash and dry people's clothing for them that they either don't have access to it or there's something else that prevents them from from doing their own laundry whether it's their health or um the fact they don't have access to the facilities etc it can be any number of things so we don't pry too deeply into why they they use it we're just happy to give them a hand and take it from there what's the feeling of like the connection I guess and conversation and stuff is it pretty casual yeah generally it's pretty casual you know some people a bit more upset one week to the next but um yeah generally pretty casual and I think the fact that we've got so many regulars and that we've got a pretty small team here there's only six or seven people in the group and there's only six or seven of us work this shift and so a lot of us are here most weeks and we've got to know all these people you know really well what's um has it changed you in any way do you think in terms of perception or life or anything after volunteering oh look I think I won't say I lived my whole life under a rock but I think you don't when you're immersed in full-time work and you're not doing any volunteering of any kind it's pretty easy to just live in your own little bubble it's pretty easy to just live in your own little bubble and not have a very broad understanding of you know what life's like for other people that aren't that far from where you live and what what's your perception of this area I guess in Newcastle and is there is there different areas in Newcastle that are doing a bit more tough than others um yeah look I think this area generally does it tough it just whether the economy is good or not these people are you know they're up against it and um you know you just pick it up in the conversations with them and you know you just pick it up in the conversations with them and it's it's um you know it's a life's life's uh a bit challenging for a lot of these people a lot of the time there's no there's no easy days here and um so yeah that's been one of the good things it just helps you be a bit more grounded and I think the other thing is you realize that you know it's pretty easy when you're you know embroiled in your own little bubble to be more judgmental than you should be and yeah a bit more considerate of the nature of what people are up against um I really started just because I I wanted to do something that would help other people with their you know the time I had on my hands once I retired and um I'd seen a bit of media about Orange Sky and I thought it was a good idea and I just put my hand up to to volunteer for it so what's the conversation with friends and family changed in terms of what you do here and do they ask about this and homelessness yeah they do I think um yeah they most people here in Newcastle don't really understand what goes on Hamilton South or public housing areas and um so it's been good to be able to say look you know they're just people making their way as best they can and um you know it's not not whatever your preconceived notion of what goes on um you know it's typically um not not accurate what's um it's like a different question I I never am good at answering this but what's the type of things you think look like the person can do that's kind of helpful for people that are experiencing homelessness like outside of giving money or whatever are there actions that they can take is there a perception that they can change like what's your take on what people can do well I think if they you know if their rest of their life sort of allows it get involved in some face-to-face stuff because you know you can read about lots of things but you really need to get that personal experience and interaction with people to get a deeper and better understanding of of what's going on that's a good answer it's a little better answers I've got for that uh cool is there anything else like you wanted to say in relation to orange sky like um my very good mate Nicholas Marchese is listening so feedback critical yeah no we're I think we're very well supported by the broader Orange Sky organization and the people you know when we've had technical issues or anything like that um it's never been too much trouble for anyone we've had to get on the other end of the phone so you know it's the it's a robust Front Line Organization and it's got a robust back room that's helping those people that are delivering the services to their to our friends gotta wave out a brand team too yeah last four years yeah no it's a strong brand it's a lot of people you don't have to explain too much you know about what Orange Guy does once you tell them they go oh yeah that's the the laundry bands or you know okay that's that's it that's all it's an out, not an option one by one one by one by one is a good thing. whatever so I think yeah whoever's running the brand piece is doing a good job. Cool, maybe I can say that back to Nicholas and I can go get a bonus for my previous time building the brand. Yeah, cool that's it. Hit him up. Pay the money Nicholas."
+        ],
+        [
+          "So my name is Terina Ahone-Masafi. So I am 29 years old. I've been in Australia for about 11 years. I came here when I was about 17 years old and I'm 29. What I love to do for my hobbies, I love doing art, I love doing music and I also am very athletic. Why are you coming here to do Orange Sky? So Orange Sky is in, okay so I am doing it basically because I'm homeless but I really love their customer service, I love how they treat people and I just really love how they're very welcoming and professional. Tell us a little bit about... what you... like why you come to Trambi in general, like why you need to do that? So I came to Trambi because I was couchsurfing with another guy and obviously I had to move out and then I got told about Trambi. I got told about Trambi a while ago but then I came here one day on the 25th of June and yeah, so I found out about Trambi, started to realise you can have showers here and that's how it all started, yeah. Cool. And just tell me your full name and spell it for me. So my full name is Terina, so T-E space R-I-N-A, Ahonima, A-H-O-N-I-M-A, S-A-F-I, S-A-A-F-I. Amazing, that's so cool. And like tell me this, we did this podcast about friends, what does friends mean to you, the word friends in French here? What does friends mean to me? Connection. Having a good connection, you know. You know, knowing, getting to know one another, each other's positives and negatives and being there for one another, yeah. Amazing. And any other words about Morin Sky and the ladies here? Very welcoming, professional and they're very interesting to talk to because they've got a lot to say."
+        ],
+        [
+          "Bernie Moran\n===\n\n[00:00:00] \n\nThat's the way, I dunno. Years ago when I was a kid we traveled a bit with mom and dad around Australia or down south and that sort of thing, and he'd get the light meter out and then he'd get the distance meter out. Then he'd just set all these bloody things. I lucky I don't have to deal with that days.\n\nYeah. Yeah. That's all. Thank God. I think we're looking good. All so you just look at me, have yarn. First thing we need is do your, say your full name Yep. And then spell the whole thing for me. It'll be awesome. Yep. Bernard, Michael Moran. Spell on Christian names or no? Just a surname.\n\nSurname. M-O-R-A-N. And yeah, I live in Toowoomba. Amazing. So tell us a little bit about yourself, Bernie. Yeah, I was born in Maureen New South Wales. There's a few people from New South Wales, or Mae in particular that gravitate to Toowoomba because it's a good city medic. Don't clap my hands.\n\nSorry. Did I clap my hands? Should I clap my hands? I need to do that. Oh. But always forget to do it, so right up. Yep. Okay. I'll do again. Sorry. Yeah. So yeah, born in Mae and I [00:01:00] spent, we had a family farm, but I lost my dad before I was born. So mum married a second time, and I had brothers and sisters, or stepbrothers and sisters from there.\n\nAnd we had a property. And during one of the droughts I was finished school and, I started to work well. I was working on the farm and then went to town to get a job because of the drought and being a stepchild. I just felt that the farm wasn't big enough to be divided among the four of us.\n\nSo I worked at as a car salesman that then got called up for two years. National service training. Which meant well the boss was to keep my job. And I said I don't expect you to keep a job. And it was only a four man business for two years. But anyway, that was a requirement and he did that.\n\nWhen I came back from the Army we had purchased a case header. And for the farm, and we needed a service. So I said to the salesman we, we need a service. And he said, I'll leave it till next week, [00:02:00] because J Case, the manufacturer was taking over the dealership. I. I took it there. I said have they got any, have they got any jobs going, retail jobs?\n\nAnd he said, I dunno. And anyway, came back a while later and said, you've got an appointment this afternoon for a position with them and selling. And being on a rural background and knowing the area I got that position. So I was very successful in selling farm machinery in the early seventies. 76, they, transferred me to Wagga as an area manager looking after New South Southern New South. And after I'd been down there three years, the manager that I had had retired and they said, we want you to come back to Mare. I said no not far Wagga, I'm only an hour to the snow and an hour to Griffith and good water skiing and plowing dam and those sort of places.\n\nBut anyway, they made it worth my while and I came back and managed that for eight years until Case bought International Harvester. And because we had a [00:03:00] company store in Maori and there was already an international dealership there, they saw an opportunity to get outta company owned branches. So they closed that up, moved me up here to Toowoomba and I hired and fired the dealers on the downs and that they wanted.\n\nAnd when I'd done that three months later, they said, what's what we needed to do? We don't need you anymore. And I was retrenched. I'd said, because selling machinery when I was doing it was just a brilliant time. And I said I wouldn't stay in that business. So I went into hardware and it was 30 years worth.\n\nThe local might 10 store up here ended up being one of the purchasing offices until I retired. And then when I retired, I spent probably three years at home doing the painting jobs that you put off while you're working. I had a three bay shed, which needed tidying up. Wife used to keep telling me to tidy the shed, but, it just went on and on. It's a hard job to do that. And I've just now sold that property because it was acreage and we've moved into [00:04:00] town. And we're on a smaller block and obviously don't have a shed, so I have to eliminate a lot of the stuff. And she'd say you should go and do it otherwise the boys, the son-in-law and son are gonna have to do it.\n\nAnd I said when they go in there, when I'm gone, they can throw it all out 'cause they don't own it. But I've got a connection to it. And I found that difficult to have to do. I've eliminated a lot of stuff before we moved. But I've got stuff out at my son's place that I need to go through and choose what I want.\n\nBut I did a lot of woodworking when I when I was working and had lots of tools for that. But I had a need for doing that because I built bedroom suites and cupboards and things for my daughter before she was married. And then when the kids came along built toys and so forth. But. That need's gone because my eldest grandchild is 24 and the youngest is 13, so I don't need to make them toys and that sort of thing.\n\nSo I don't have a need. I like to do [00:05:00] things if there's a need for it, but if there's no need I don't see a point. So I haven't done any woodwork for a long time, so I can afford now to reduce the tools in the shed and so forth. But wow. And that was after, after three, for about three years. I think I was retired when I was approached by a friend of mine and pushed by my wife to join Tom.\n\nThat, so I did. And I came into Tom that only a couple of months before COVID hit. So that changed the way that Tom had operated. We used to meet. Once a month down at a hall or a club just down the road. But we couldn't do that then because of the isolation and distancing.\n\nSo we went into recess, for three or four months until we worked out that we could have smaller sessions here. And the earlier sessions we were limited to probably five or six people at each session. But now because the covid sort of under control. We can have [00:06:00] up to 2025 meeting here.\n\nAnd so we meet, we have four sessions a week like the one you witnessed this morning. Also today we have lunch with mates. So we go to a club and have lunch. Just another way of getting outta the room here. And that's on this afternoon. And then go on and do what I gotta do for the kids coming down for Easter.\n\nThat I'm still working on tidying up the yard in this property that we've purchased. But so awesome. I I came into Tom that the president that was here, was president at the time, was a Moree fellow as an accountant. And he used to do my books for me when I was working and so forth.\n\nSo I knew him quite well and, i'm fairly casual about being president, but he was less formal than even I am. So he just said I'm gonna retire. We want you to go as president. And I said no. There's people that have been here for 15, 20 years and I've only been here a couple years, but I suppose you call [00:07:00] it railroading.\n\nBut anyway that's how I. I ended up in the chair here. But I'm enjoying it. I do it casually. I do a lot of volunteering in a lot of the different sections. Not, I can't spread myself thin enough to go to everything, but I'd like to get to nursing homes. My wife and I, as I said in the center there a while ago, that we can involve women.\n\nIn a volunteering role? To get, I found that my wife was inclined to stay home now too, so I went on, volunteered at a childminding center, which I could take her to. We volunteered at that for a while, but now that we've moved, we're right across the opposite side of town, so I'll either have to look.\n\nAt some other day, daycare center to go to or something like that. But that was one of the sessions I then do, I'm on the barbecue team. I've got a team that I work with each month we do the barbecue at hardware store. And I've got my team and I alternate with another fellow that does the other [00:08:00] month.\n\nSo every second month we've got that on. But we've just done Harmony day which was a, a community center a community function, put on down at the Grand Central Shopping Center, be a Tom that cater or did the cooking the food was supplied. So we were just supplied with that food. We served that up.\n\nThat's an international thing that they have each year, bringing all the I suppose refugees are included, but anyone that moves from another country, kind comes and celebrates Harmony day here. But yeah, there's a lot of that. I do go to a nursing home probably not as frequently as I would like, but my calendar can fill up fairly quickly in different functions I have to attend to.\n\nBut but I, I'm enjoying it. And, it was my wife that realized that after three years at home, admittedly looking after an acreage block took a lot of work. But there was still times that I felt a bit of a loose end. Came to Tom that, and now I don't have a loose end at all to worry about.\n\nShe has told me that probably ought to take my bed down, but, that's the way it [00:09:00] goes. But I'm enjoying it. And, the company's still growing. We're getting more people in all the time and yeah, that's great. We're certainly, we're increasing numbers more than we're losing them, and I think that's great.\n\nSo why do you as people are new people are coming, what are the changes you're seeing in them as they first come? And make sense of what this is initially, and then what's their progression like as they spend more time with you? As we said in there, walking through the door the first time is the hardest thing.\n\nParticularly if you don't already know someone in there. I was fortunate and I knew three people that were in there, so it was easier for me. But the barbecue we held on Saturday, though, I think there were five of us working that barbecue. And Greg and another fellow walked past and wanted to know what we did.\n\nWho we were and so forth. And a lot of people ask what Tom that is, and it's the Alder Men's Network is the full title of it. He, they both had he yarn to, to some of us that were up there [00:10:00] cooking. That was on Saturday. Greg turned up on Monday and signed up. And was here again today. So the other fellow has come and he's taken the paperwork to join.\n\nSo when you see them come in they're hesitant that they're not sure what they're coming into, but within a few weeks they, they're entirely different person in the, what they open up, they chat about all sorts of things, but we encourage them when they do come to talk about themselves. So that.\n\nWe know what their career was, what the history was, where they live and a bit about them from that point. But yeah, it brings them out of their shell enormously, I must say. And how, what do you think is the benefit of not just coming and interacting with other people in a similar situation, but then going into the community and offering time and offering support in the community as well to people that may be young people or migrant?\n\nOr refugees as you're saying. Yes. [00:11:00] With that getting people out, it is one thing to get them out of the home and get them into here, but getting them out into the community is just more doors are open. More opportunities to volunteer with people. And that, that brings them out as well.\n\nAnd sometimes we might carpool to go over to a nursing home. So you've got that where you're talking to these people on a lesser number. But that also encourages them to come out, I think. And and listen to what else is going on. But the volunteering is a big help and there's not many other organizations that, that I know of.\n\nThey do it the way Tom, they'd do there. There's a lot that meet in the room and stay in the room. But getting out is another thing I think that that opens it up further. What I always love this word, wisdom and intelligence, his two words. What do you think Tom Net is able to offer the community within a wisdom and intelligence and experience?\n\nI think we're doing that with the [00:12:00] intergenerational support that we're giving to one of the public schools up here at centenary Heights. We go there and the, there's some kids there in year 12 that, that can't read and write that have come in from overseas. So we're involving them.\n\nWe might only play a bit of ball game or darts or something with. With kids to, to educate them a little bit in, in the lifestyles of Australia and things like that. Plus the mentoring at the Flexi School, it helps develop those kids and the kids change enormously from when they arrive there in year 10 until they graduate in year 12.\n\nIt's amazing the difference it makes through, yeah, I think that's important that we get out and we do help the community with various barbecues and anyone that wants something, some hand with something, we can join in with that. We have a good relationship with. East Creek, which is a community center that to drop in place that we do barbecues for them.\n\nAnd they have a lot of foreign [00:13:00] people call there and they have a food pantry too that people contribute to and pick. They pick up, food that's almost out of date. And they can give that out to to the various people that are having a bit of financial trouble in supplying food. One thing I always think about is, a lot of people are speeding through life so they can retire. And a lot of people are spending their life working to make money to retire. And I think some things I was thinking about my father and my mother in those situations and Yep. What sort of like wisdom and experience would you be able to offer to people that are maybe in their thirties or forties or fifties who are like spending the majority of the time thinking about how they can.\n\nGet to retirement rather than living your own. Yes. Yeah. I I don't know. I guess I I worked hard and worked continuously. I started working. I was 16, still going to school, working in [00:14:00] the store after after school and then going on to the farm and then various jobs on the way through. So I've always.\n\nBeen in work. Thank God. What I've found now we've got to the retirement age and we've saved to get, to have money to to retire with. So I'm not on a pension. I, we're self-funded. We live off our superannuation fund, but then I've got friends that. I've done a world trip or an overseas trip every year, all their working lives.\n\nAnd they're sitting down now on a full pension. And that makes me wonder at times did I do it right or did I do it wrong? A few years ago, I might have said I'd done, I had done it wrong. But now the risk of there not being a pension and. Maybe not too distant future, saving for your future is more important now than possibly was.\n\nYeah. There's so much I think that people can spend time talking with people who have retired and like [00:15:00] understanding that process a lot better. Yeah I would, as I said I would've thought maybe I was better off when I was 30 to. Couple of overseas trips, but I've only been to New Zealand and Tasmania and Norfolk Island.\n\nBut that's as far as I've been outta the country. But I've toured the country and I enjoy the country and I think we've got great things to offer here. But you saving for your future is an important thing. Yep. What's what do you think the next sort of few years is in store for Tom Net? Or what do you hope might happen over the next?\n\nI'm hoping that it, that will continue to grow like it is growing as I said, we've recently opened up the Laia Valley and we've got three branches going down there at CAT and Laley and plain Land. But we need, we live on government funding. We've got two paid staff here, and we get government and some state government and some federal government funding.\n\nAnd because we don't have membership fees or anything, we have [00:16:00] to work on that. Wherever we can get the funding, we can go ahead, but if one of the either the federal or the state were to reduce our funding or cut us out altogether I dunno where we'd go because we've got a management committee.\n\nWe were talking just the other day about that. If we were to lose. To lose funds, we'd have to lose a staff member. And I just, they're that busy that we can't afford to operate without one of them, and it would be very detrimental to Tom net. If funding was reduced and what would be, if there was people that were interested or on the fence of supporting Tom.\n\nIs there a core message that you have that well come through that's come to the fore just recently and that maybe we can talk to some of the the people that are influential in town and situated to, to donate and so forth, whether we talk to those sort of people.\n\nTry and get something. But but we continued to work like Shannon particularly tirelessly on, on applying for [00:17:00] grants from government departments. But mental health is a big issue. Men over 65 are overrepresented in male suicides in the 25 years that Tom that's been in operation. We've got 295 members.\n\nWe haven't lost a member. To suicide. And I put that all down to the comradery and the friendship that we have by discussing various things and looking after men's health in general, plus mental health. Yeah that, that's important. Amazing. Was there anything that we didn't cover you think, that you wanted to make sure you said or any like things, topics or themes or, no the main thing and everybody, as I said, I'm president of the management committee and they were, they're a good team of people.\n\nWe've got a cross section in that and that we've got a barrister, a magistrate principles and that sort of stuff. It's a cross section in there as well as it is through Tom that and. Older men. Looking after older men is is probably the main thing that we need to get [00:18:00] through. But word of mouth is a big thing by talking to people.\n\nYeah. But I just hope it can continue to grow. Amazing. Well done. Thanks Bernie. You're so good. Okay. We'll just take a quick photo.\n"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 177,
+      "nullValues": 0
+    },
+    {
+      "name": "Theme (from Quotes) (from Media)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "Comfort",
+          "Community Support",
+          "Human Connection",
+          "Long-term Health Outcomes",
+          "Sustainability"
+        ],
+        [
+          "Community Support",
+          "Human Connection",
+          "Community Support"
+        ],
+        [
+          "Community Support",
+          "Community Support",
+          "Long-term Health Outcomes"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 176,
+      "nullValues": 0
+    },
+    {
+      "name": "Location Rollup (from Media)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "Newcastle"
+        ],
+        [
+          "Perth"
+        ],
+        [
+          "Toowoomba"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 187,
+      "nullValues": 0
+    },
+    {
+      "name": "Role",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "Volunteer",
+        "Friend",
+        "Member"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 150,
+      "nullValues": 0
+    },
+    {
+      "name": "Video draft link Rollup (from Media)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          null
+        ],
+        [
+          null
+        ],
+        [
+          "https://share.descript.com/view/nGyDMDWpsoK"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 187,
+      "nullValues": 0
+    },
+    {
+      "name": "Created",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "2025-02-02T05:04:47.000Z",
+        "2025-02-02T05:04:47.000Z",
+        "2025-04-17T21:44:20.000Z"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 187,
+      "nullValues": 0
+    },
+    {
+      "name": "Created 2",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "2025-02-02T05:04:47.000Z",
+        "2025-02-02T05:04:47.000Z",
+        "2025-04-17T21:44:20.000Z"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 187,
+      "nullValues": 0
+    },
+    {
+      "name": "Preferences",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "Commercial use allowed",
+        "Commercial use allowed",
+        "Commercial use allowed"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 47,
+      "nullValues": 0
+    },
+    {
+      "name": "Created At",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "2025-04-17",
+        "2025-04-22",
+        "2024-10-13"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 98,
+      "nullValues": 0
+    },
+    {
+      "name": "Location",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "Toowoomba",
+        "Athens",
+        "Canberra"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 139,
+      "nullValues": 0
+    },
+    {
+      "name": "Organisation",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "TOMNET",
+        "Ithaca Laundry",
+        "Orange Sky"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 100,
+      "nullValues": 0
+    },
+    {
+      "name": "File Path/URL (from Media)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "https://share.descript.com/view/nGyDMDWpsoK"
+        ],
+        [
+          "https://web.descript.com/295aff21-ee43-42c3-8798-6fd4a9c8419b/263c8"
+        ],
+        [
+          "https://share.descript.com/view/aLwaWPvxon6"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 80,
+      "nullValues": 0
+    },
+    {
+      "name": "Video draft link (from Media)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "https://share.descript.com/view/nGyDMDWpsoK"
+        ],
+        [
+          "https://web.descript.com/295aff21-ee43-42c3-8798-6fd4a9c8419b/263c8"
+        ],
+        [
+          "https://share.descript.com/view/aLwaWPvxon6"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 80,
+      "nullValues": 0
+    },
+    {
+      "name": "Video draft link (from Media) 2",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "https://share.descript.com/view/nGyDMDWpsoK"
+        ],
+        [
+          "https://web.descript.com/295aff21-ee43-42c3-8798-6fd4a9c8419b/263c8"
+        ],
+        [
+          "https://share.descript.com/view/aLwaWPvxon6"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 80,
+      "nullValues": 0
+    },
+    {
+      "name": "Galleries (from Media)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "recaR1hdZ6QFQTyqF"
+        ],
+        [
+          "recUa4nXM0FKqJZlP"
+        ],
+        [
+          "recUa4nXM0FKqJZlP"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 48,
+      "nullValues": 0
+    },
+    {
+      "name": "Link (from Galleries) (from Media)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "https://photos.app.goo.gl/ixLsAXbmih6imXU56"
+        ],
+        [
+          "https://photos.app.goo.gl/taAqbJcqBGm3PV219"
+        ],
+        [
+          "https://photos.app.goo.gl/taAqbJcqBGm3PV219"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 48,
+      "nullValues": 0
+    },
+    {
+      "name": "Secure Contact Email",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "cj.gibbs01@gmail.com",
+        "dan.mcbean1987@hotmail.com",
+        "kate.bjur@gmail.com"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 23,
+      "nullValues": 0
+    },
+    {
+      "name": "Magic Link URL",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "https://empathyledger.softr.app/magic-authentication?magic-token=2685828d01734df9ac14d2280e979e8c",
+        "https://empathyledger.softr.app/magic-authentication?magic-token=ce5fa4bf5c5d41ca87e9b1a6e5d5a5e8",
+        "https://empathyledger.softr.app/magic-authentication?magic-token=9456c3767abb4214a452f8779c664cd9"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 24,
+      "nullValues": 0
+    },
+    {
+      "name": "User who added story",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "recgAx2YfdfL8MMCm"
+        ],
+        [
+          "recgAx2YfdfL8MMCm"
+        ],
+        [
+          "recgAx2YfdfL8MMCm"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 26,
+      "nullValues": 0
+    },
+    {
+      "name": "Shifts (from Media)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "recywajtNjhcR4yPO"
+        ],
+        [
+          "recywajtNjhcR4yPO"
+        ],
+        [
+          "recEyI3nzqyjNhIQH"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 38,
+      "nullValues": 0
+    },
+    {
+      "name": "Shifts",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "recywajtNjhcR4yPO"
+        ],
+        [
+          "recywajtNjhcR4yPO"
+        ],
+        [
+          "recEyI3nzqyjNhIQH"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 39,
+      "nullValues": 0
+    },
+    {
+      "name": "State (from Shifts)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "ACT"
+        ],
+        [
+          "ACT"
+        ],
+        [
+          "ACT"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 39,
+      "nullValues": 0
+    },
+    {
+      "name": "Done",
+      "types": [
+        "boolean"
+      ],
+      "sampleValues": [
+        true,
+        true,
+        true
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 23,
+      "nullValues": 0
+    },
+    {
+      "name": "Consent Status",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "Consent for Commercial Use",
+        "Consent for Commercial Use",
+        "Consent for Commercial Use"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 54,
+      "nullValues": 0
+    },
+    {
+      "name": "Preferred Anonymity Level",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "Full Name",
+        "Full Name",
+        "Full Name"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 23,
+      "nullValues": 0
+    },
+    {
+      "name": "Preferred Name",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "Chloe",
+        "Jess Smit",
+        "Paige Tanner Hill"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 25,
+      "nullValues": 0
+    },
+    {
+      "name": "Bio",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "Chloe, an Aboriginal Homeless Fringe Support Worker, actively advocates for practical and innovative solutions to improve the harsh living conditions of homeless communities, addressing immediate health risks and fostering collaborative stakeholder engagement.",
+        "Jess Smit has lived in Townsville for 18 years with a background in education. She currently serves as the project officer for the ATSIMS program, which engages First Nations high school students in marine science. Her career began teaching on Palm Island, giving her long-standing connections with community members. Jess is dedicated to capacity building and empowering others, particularly through marine experiences, and sees herself continuing to work with Palm Island in different capacities over time.",
+        "Javier Aparicio Grau is dedicated to nurturing youth through structured, activity-rich daily routines. His extensive experience ensures a nurturing environment emphasizing personal growth and recreational enrichment."
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 68,
+      "nullValues": 0
+    },
+    {
+      "name": "YJ",
+      "types": [
+        "boolean"
+      ],
+      "sampleValues": [
+        true,
+        true,
+        true
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 50,
+      "nullValues": 0
+    },
+    {
+      "name": "Tag",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "Diagrama Staff",
+        "Australian Supporter",
+        "Young People"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 12,
+      "nullValues": 0
+    },
+    {
+      "name": "Stories (from Media)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "reccxsuEDScstgPo2"
+        ],
+        [
+          "recmKVvKSQZ9PEKk0",
+          "recm7uI6MjzIi8MkM"
+        ],
+        [
+          "recZNLAd3VIWHh11o"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 26,
+      "nullValues": 0
+    },
+    {
+      "name": "Stories",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "reccxsuEDScstgPo2"
+        ],
+        [
+          "recmKVvKSQZ9PEKk0",
+          "recm7uI6MjzIi8MkM"
+        ],
+        [
+          "recZNLAd3VIWHh11o"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 26,
+      "nullValues": 0
+    },
+    {
+      "name": "Website",
+      "types": [
+        "boolean"
+      ],
+      "sampleValues": [
+        true,
+        true,
+        true
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 27,
+      "nullValues": 0
+    },
+    {
+      "name": "Website themes",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "Cultural naming practices",
+          "collective child-rearing",
+          "intergenerational knowledge transfer",
+          "impacts of intervention policies",
+          "entrepreneurship through cultural sharing"
+        ],
+        [
+          "Evidence-based approaches to youth justice",
+          "belonging and connection as fundamental needs",
+          "early intervention",
+          "cross-cultural learning",
+          "systemic change through relationship"
+        ],
+        [
+          "Health management in remote communities",
+          "importance of family support networks",
+          "dignity through comfortable rest",
+          "adaptation to medical necessity",
+          "elder care and respect"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 27,
+      "nullValues": 0
+    },
+    {
+      "name": "Personal Quote",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "\"We want to promote, through our businesses is our culture.\"",
+        "\"Belonging and connection is massive.\"",
+        "\"Because it's hard to do it. Plus, I'm disability, I can't wash my mattress.\""
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 27,
+      "nullValues": 0
+    },
+    {
+      "name": "Empathy Ledger Reflection",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "Linda's narrative exemplifies the Empathy Ledger principle of cultural contextualization—her explanation of cultural naming practices illustrates how ethical storytelling must respect indigenous protocols. Her contrast between her bush upbringing and current community challenges demonstrates how Empathy Ledger can document cultural transitions while honoring community resilience. Linda's entrepreneurial vision for cultural tourism illustrates how Empathy Ledger can support economic empowerment through ethical storytelling, creating pathways for communities to share cultural knowledge on their own terms while generating sustainable livelihoods.",
+        "Kate's professional journey illustrates how the Empathy Ledger framework can bridge research and lived experience to drive systemic change. Her emphasis on belonging and connection as fundamental human needs aligns with Empathy Ledger's focus on the relational dimensions of storytelling. Kate's contrast between Australian and Spanish approaches demonstrates how Empathy Ledger can facilitate cross-cultural knowledge exchange while maintaining contextual integrity. Her advocacy for early intervention based on both research evidence and young people's testimonies exemplifies how Empathy Ledger can ethically connect individual narratives to broader policy implications.",
+        "Gloria's straightforward testimony about her health challenges and the significance of comfortable rest illustrates the Empathy Ledger principle of dignified representation—valuing practical, everyday experiences as worthy of documentation and respect. Her emphasis on the challenges of maintaining bedding hygiene with mobility limitations highlights how Empathy Ledger can illuminate the intersection of disability, remote living, and cultural practices while maintaining storyteller dignity. Gloria's narrative demonstrates the importance of practical solutions that honor both physical needs and cultural contexts."
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 27,
+      "nullValues": 0
+    },
+    {
+      "name": "Quotes Rollup (from Media) (from Stories)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "rec5iV0WhyHQpfAp7",
+          "rec1AcR9Kl80mRnPD",
+          "rec4OfpOc7EkICwef",
+          "recp1VoMCNBCCbWAx",
+          "recNI6z5vnoJU52tN",
+          "recaPyEAbYQa2Dtd1"
+        ],
+        [
+          "recQ1B67I4V4z988k",
+          "recBUqCaUYmegJNMK",
+          "recGslyD0TZ7LBuQY",
+          "rec9UkLb5Xfsopcgo",
+          "recbjfjXmP5sWgkya",
+          "reco1rdetO626300x",
+          "rec7sLGKgrTtsJyiu",
+          "recQ1B67I4V4z988k",
+          "recBUqCaUYmegJNMK",
+          "recGslyD0TZ7LBuQY",
+          "rec9UkLb5Xfsopcgo",
+          "recbjfjXmP5sWgkya",
+          "reco1rdetO626300x",
+          "rec7sLGKgrTtsJyiu",
+          "recQ1B67I4V4z988k",
+          "recBUqCaUYmegJNMK",
+          "recGslyD0TZ7LBuQY",
+          "rec9UkLb5Xfsopcgo",
+          "recbjfjXmP5sWgkya",
+          "reco1rdetO626300x",
+          "rec7sLGKgrTtsJyiu",
+          "recQ1B67I4V4z988k",
+          "recBUqCaUYmegJNMK",
+          "recGslyD0TZ7LBuQY",
+          "rec9UkLb5Xfsopcgo",
+          "recbjfjXmP5sWgkya",
+          "reco1rdetO626300x",
+          "rec7sLGKgrTtsJyiu"
+        ],
+        [
+          "recPGMtTciMVIT7on",
+          "recnG95sFkT9kiFne",
+          "recYa8dsc95y8f8Bk",
+          "rec5U4IGyPAC7N7gY",
+          "recu2hikaYOZyXUrb",
+          "rec0xmf7c2hmL1141"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 26,
+      "nullValues": 0
+    },
+    {
+      "name": "Video Story Link (from Stories)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "https://share.descript.com/view/zHn2u6PAkOm"
+        ],
+        [
+          "https://share.descript.com/view/M9Oyh7qnpoe",
+          "https://share.descript.com/view/RnBVF1WQKRx"
+        ],
+        [
+          "https://share.descript.com/view/z2LyQi0wpQR"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 26,
+      "nullValues": 0
+    },
+    {
+      "name": "Video Embed Code (from Stories)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "<iframe src=\"https://share.descript.com/embed/zHn2u6PAkOm\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
+        ],
+        [
+          "<iframe src=\"https://share.descript.com/embed/M9Oyh7qnpoe\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>",
+          "<iframe src=\"https://share.descript.com/embed/RnBVF1WQKRx\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
+        ],
+        [
+          "<iframe src=\"https://share.descript.com/embed/z2LyQi0wpQR\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe>"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 26,
+      "nullValues": 0
+    },
+    {
+      "name": "Title (from Stories)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "10-Year Wait for Public Housing: A Human Right Crisis"
+        ],
+        [
+          "Living with Just the Clothes on Their Back",
+          "Just Two Disasters Away"
+        ],
+        [
+          "Uncle Allan Welcome"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 26,
+      "nullValues": 0
+    },
+    {
+      "name": "Story Transcript (from Stories)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "# 10-Year Wait for Public Housing: A Human Right Crisis\n\n[00:00:00] That story about it takes a village to grow children up.\n\nIt was certainly true in my case 'cause everyone in the camp, looked out for all the kids.\n\nSo much has changed. So much has changed. Not only in our cultural practices, but also, just in life in general and laws and legislation and whatever from the mainstream side as well as the most concerning thing, the loss of our language and culture.\n\nI think it's a 10 year waiting list on the waiting list for public housing here in Tennent Creek. It's a human, right for everybody to have, houses, but, Aboriginal people, I guess make do with what we can, live in tin houses, find ways around that.\n\n'cause we, you can cook on the fire, et cetera, et cetera.\n\nMedia have a lot to do with the narrative of everything that's happening around Australia, and sad to say, but Indigenous good news stories aren't picked up very well. It's all bad stuff that gets picked up.\n"
+        ],
+        [
+          "# Living with Just the Clothes on Their Back\n\n~~Sort of behaviors, and I know ~~[00:00:00] one shift I had a gentleman come up and say, oh, is the van still washing? And I said, yeah. He said alright. I said do you wanna go and get your washing? And he proceeded to strip off everything except his jocks. And that was something I haven't seen here. But it just goes to show that some people are basically living with the clothes on their back.\n\nIt's great that we can help them to do, to be able to, wash it for them. And I think it helps concretize other people who I talk to about. The difficulties and challenges of, people who are doing it tough at this time, and I think that helps to raise the awareness of the inequity in our society and hopefully help address that.\n\n~~I think it's been increasing. I've been in Adelaide, this is my 10th year, and more people who are. Doing it tough and and a lot more people who would be homeless on the streets.~~\n",
+          "# Just Two Disasters Away\n\n~~So you learn and then you just interact with the people who bring their washing in for all sorts of reasons.~~\n\n~~You hear some of their stories, which is really lovely to hear some, it's very sad at times. And ~~[00:00:00] For many people, they're just two disasters away from needing this service or needing a roof over their head. And, yeah. So that's the sad part of it, but providing some service, providing some help, it's always appreciated.\n\nI thought in the beginning, and I can't remember it happening, but I remember just getting like a birthday. It can, like happy birthday from the whole Orange Sky, which was really nice.\n\nSo I don't know if it happened, whether it's as, it's got bigger, it's been quite so much, but I really thought that's just looking after your volunteers and I like that. 'cause again, in schools we rely on volunteers. So I know the importance of, you still gotta appreciate what time people are putting in.\n\n~~So Yeah, and I think the organizations. Really good at trying to do that. 'cause you've got a whole range of different people and personalities.~~\n"
+        ],
+        [
+          "# Uncle Allan Welcome\n\n**Speaker 3:** [00:00:00] Good morning, everyone. My name is Alan Palm Island. We are here on Spoongeman Barra, Great Palm Island, and Daru Maru. We look around Great Palm, all the rest of the islands around the surrounding islands. And we are here today to learn about myself. My skin name is Nakawaraka, skin name. And our language name, our language is Mulkal.\n\nAnd we speak in, in, in our town that that we, we speak our language, that we call Nakarawaraka Burbanbara. You're welcome to Great Palm. But I say that Bougamambara. Bougamambara means Great Palm Island, Mambara, and Darumaru [00:01:00] means the rest of the islands or surrounding islands of palm, Great Palm.\n\nToday we just wanted to say that the islands behind me, it's Nuru, but they call it Curacao. Nuruwapri, North Palm, and Bougambarin. And across here, we got Guggenbeiren is Hofje's Island and you got across over here to Emilia, which is Fannum Island. Palm, Great Palm is, is sitting on as we got here on our emblem is, is Mingina Mingina Ranges.\n\nAnd in this, in this emblem emblem, we have a, what we call a shield. We call Bukal. Bukal means shield. And we. We, we put, I [00:02:00] put the designs on it as a two, because our boundary is, is, is come into form of a, of a big Mandaray. Our boundary, we call it Mingina Mingina Ranges, Mingina Mingina, Mingina Mingina.\n\nOur boundaries is that area of Great Palm Island. And in, in that area, it would keep, and I'm just trying to welcome you all today. Thanks for coming.\n"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 26,
+      "nullValues": 0
+    },
+    {
+      "name": "Story copy (from Stories)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "\"It takes a village to raise children, and in my community, everyone in camp looked after all the kids. Now there's a 10-year waiting list for public housing in Tennant Creek. Housing is a human right, but Aboriginal people make do with what we have.\""
+        ],
+        [
+          "Journey to Great Palm Island (Bougamambara) with Traditional Owner Uncle Allan Palm Island as he welcomes you to his ancestral lands. Uncle Allan shares his skin name Nakawaraka and introduces us to Mulkal, the traditional language of the region.\nIn this moving welcome, Uncle Allan guides us through the surrounding islands, revealing their traditional names alongside the colonial ones, and explains the significance of the Mingina Mingina Ranges that form the natural boundary of this beautiful place.\nExperience the deep connection to Country as Uncle Allan introduces elements of cultural significance, including the traditional shield (Bukal) that represents their heritage.\nWatch the full welcome to better understand the rich cultural landscape of Palm Island. #CulturalHeritage #PalmIsland #TraditionalKnowledge"
+        ],
+        [
+          "\"Tennant Creek is a small town where everyone knows everyone. I'm from the Warumungu Tribe, White Cockatoo clan. We're setting up Wilya Janta to create culturally appropriate, climate-friendly housing that honours our traditions while building toward the future.\""
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 19,
+      "nullValues": 0
+    },
+    {
+      "name": "Comments",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "recds18ztLSOnDQWu"
+        ],
+        [
+          "recfQ7L0bMqF3jTeU",
+          "rec4Ut2ZYhNJbDo2O"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 2,
+      "nullValues": 0
+    },
+    {
+      "name": "Consent Form Photo",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          {
+            "id": "attDTgIL2Wjwusz5b",
+            "width": 3024,
+            "height": 4032,
+            "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/nMiV2RCqhLEjy8ILrC6Qzg/4u9yaM1hsvuErdgQZm9jaBQ8wg6K4KdZTm5PaOHGhaPHUPAWhTTFs9o-ZNSSCYOvAh3-s6PvZIIAGahJtKGr6fNXbLZE4FNWNJ0zzoGYb4g_cLySnN0mFIw79VWkeEZhYIc62MHa-DoV-cxIa70RzXjDsDnglqby5wrvxrbepJY/wNy9S0LXa9fxDHR08DuAPi-bgfYrP-ENy9osCi5bjeU",
+            "filename": "image.jpg",
+            "size": 3397307,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/1-_HBt_RdFUUxj3CoxkU9A/HWgrsO1YaGt4nox7uat-cYnxA6ancjjFp0Bs_qTdYiAe_ThiKLlZ4zD6I5e8za6tlOYVF8-YUlBhilH29Q9cud5LjayTBIvF1jtE8lHAMBkPtkcVqTuSKeYca6vStehzjxXZWC17PHa96YrVPcPzDQ/IHkQ3eLJlr1N0lGIVgfuBRLd3v1okTP7i99RWbA-Gu4",
+                "width": 27,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/WH7KG1jt4NoR1mCeaZ526A/3UCUFcl0Xyr6mBTACu9rhLimIYKMWd9EqO9mUGxEBTAitwvH_NsSOFLqgJ1u0-dHTTt9wSV283CxWMR7gtY9ZmbwuT4ERI2tt1sc9-cKOCFsq5MbPDvJRXv8WFqyEO7ayVlwduwsKfiauHyKHTUYRQ/RN9Pco2GmBpQYDcDMrGBT-ZuyW-72NNZMK9P-A3g6iY",
+                "width": 512,
+                "height": 683
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/_lMQgE6ukbC-WgK7DykfPQ/qHQlI1Kvr4ziDcrWqMwCuXJpjUNXoRgMTjwS9ULExPm0IN6XM7ABrNKcYISLUrgc7Q7Ejckw3BuUc_9aGFFhKUOnS9etgby09SPGTEWjqs9lKEoGXyKipMEWkWp20sQxuiNV8oYfMhta1ed8VeDgMg/aL4q86X5dcfdzOE2qfXrNZQk7u01ASzUyyddLaT819Q",
+                "width": 2250,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        [
+          {
+            "id": "attnrOp9zmIxW4TJB",
+            "width": 3024,
+            "height": 4032,
+            "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/3Z8pRjYkHQnPq2qsRnDx9Q/79zG1uC6GTJ3oJc5yK6Vt95CAXTpIeNOJTGmm6Hpq31PCNSLBaYQU-jNYINASfqgKnUmXrlNQtNnVgR6y0icSdIXnO6WU1aa0kcB6ytlIR5Mz67J2qHKQujUzjna0JrXvbDnCNvBr5NeuHsdxqkdOkyW8LA1NgURZDKcFrTGnNQ/T2gJLv5ExZ8JZM6PYTfc3a8p6r1nhFkqwLSeraPj42o",
+            "filename": "image.jpg",
+            "size": 3156658,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/uiAbPwBoPu-kGD8jWrfL1g/jd-z9LPf4NysGBVEmBVZCSVOpvNvs5K81z5NPTF-V1UQ5X61qj5OYH3OD9BOjKRF68ksiicnkFH0QONF0gVy0FTtm_ruMvm12-G-h4Fi0m-iIL_3FukdwBYr--rp-fuDQZMmDCDmwp36jyvnBDM0Bg/8ml3NeNhnwuWypEGTUqn0rh6NRQaq-PEtgo6xLX6j7s",
+                "width": 27,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/8Bv-r59ozavYJz2uPBPVGw/EA8YtZjubSSfqxcwTG46r_LjgqMFfHnxCYJYgtQZU_W-GNkVXWdhsbhMqlCg64OrImbEIaQEVWn6TKK4pEU2Zrd7gIdi4tQATVjWqpnJZYPRQ-QMDB7ZdUbD-v7Do93y4IZdoCC9WSQxERsEmBn6ig/fwGJ5dNjXXr3-USR5-jhue2T3qRetT7_MBG6diL1Rsk",
+                "width": 512,
+                "height": 683
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/fRij9kVdZjtdVO--cskccA/f0YOOLBnOfFXd071ORWDD1o_qwfTDxm9pEafyVDgy1uwbzsRsWgBgEwrH7U0JsXWypH1LBDduKfpDxs3d7iq4GXnzFYjiCmQFE435pVSI-366czNg_gsLB21hZ_thuIy_f449CcROVKtTCSbGxhyMw/PY56JEPj2x9Nca1MQZ1t8tQYalYBHhdSvax0DPhu4_0",
+                "width": 2250,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        [
+          {
+            "id": "attTksZTXUmnLot5l",
+            "width": 3024,
+            "height": 4032,
+            "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/Vc1hhywTGh6AuyOHq90S5Q/5Z4Ptwucinzjt4dx-YN7GUIqlZF5mO9zsLDWP3OnYZ2NnyScDV76vgAZAiI3eW1xlTlzuZHu75AnK-ee_bz9d2go1QoZstkRgToKcFo3dpBuzssGAbPXEnW6uGJgZV-igVn1clbD2F2jN6Khzlq2t8KLkeXnnguyk753GqZkpyI/m3oz8gQLKOzquZUDKZlcGgGLqCiP5ylgHKL79DUt2d4",
+            "filename": "image.jpg",
+            "size": 3142616,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/OoaMtMRGbo2NUD_h_wxRaQ/eY6Ne1sKZE6PHaNO39pE0qnPuKPXwTln3sgRR4HN8BlbaNh_GHoN4WcN0Jyc07BVZLev58DE6JfHh33SmNypio8m2mK1FIILfg9j9OIbfFKV5WivtQYytow-1OVO3_lAEAnFfU3cXKaiQJty-g2i_g/KilU61FQ7YXq63lHkpkHuDJ7Zylb80HzaRmXXqkZYSE",
+                "width": 27,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/cttJLYzApGfvsAZy-BH5gQ/lwPNn2WCQv-pEF2pX51K7EI3qhcI8yT2Ps_yIRth6OHdg11-o8T7YWqAea8GEDIuD6IcGRr0M6f2zOxlkLyHv7UxHKAS83SgaDfulIqcpj7MvMNUHjkyeRVxO6PQAezd1u2SnUnRKTAceywteDrImw/I1q4Z7rYHt8fAbSBGDNCN9QaULkM6XKyx3AvHYjbHmA",
+                "width": 512,
+                "height": 683
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/fowBnLakwcpU_LvvUHO7vA/DIoqYbhISr1ERxAmfhQFvEl4Xpa1JMyH_3Wt3jovnbVhvXRa5E0W73UOdRDknAxZXuJtAQK0HtCNAhZ_CW67ROvaqlv0qK6FqoDFU6OeR22cLhpREor-kvXHajQIaSRjLGXryC3TuETeMYESgAUdKA/uSbHl43RCDDoCHYX1yp5pcogqNJgaIH8KoYbQqR-foM",
+                "width": 2250,
+                "height": 3000
+              }
+            }
+          },
+          {
+            "id": "attHEK9mvxNUXoejh",
+            "width": 3024,
+            "height": 4032,
+            "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/UB44xpHeLUuT8S6M-g9SpA/az_QOAEzlXle8l-RKDiJOI48tJzga4H-aA9KBWczzEqcnpkloZPNON1UXd_7hIhp4qdvWJlESbnMFnUhoPW9rSIN2gqk9UbnyViMlZgtP7BkZNfIKexGe9GX0t08yEiqBFlMvNJv_t33cXkWehzr-B2uk88SqRStbukvW2msMTU/j_NJ6Uu29vrSRAx9DPK96dYoiszcRsgwEdVyqPWREAM",
+            "filename": "image.jpg",
+            "size": 3001141,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/XWjFa78orHJ7-AU_Gp7qng/YoTK6qNuzTESx_ik0m5__XoD9hY2yZZ6QKAgNMmiGrzTvlVxSbtgQKPZEWxgrjvN_z1LxftdoD4f67PvCjHuVUk2UpdWxvYKfKeTfTP0jLiJXiUlUkBF9b45hUw8mZcVEYLo10UhzFWkLLPbUZZVug/4N28jbHOH0e6XAUB1_2U0PE6VUlFddFoFTQhqOkWeDo",
+                "width": 27,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/1gG7osgvFHnrivkYZwTu2w/sP0qSgN1oQpiSazA7c_DEUSoGjxPINdQgHQJpEPcUYArTAEQA_fwGkWrXHDxbgqVuqsk-SVxQ5Mhvs8_qpbknQsfAYCANzVS-ZoOvGQAG-orl4gx1yTPZmK0IWj-WEnjymff4upiGl9XQO25krhj0w/L3yZmp2j2kjibPnZ4KQYF0xXsghJElZzSCUDPA8AOdk",
+                "width": 512,
+                "height": 683
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/ObtMuMDv2jtspoX2Fv7HtQ/Dlugp1CxFnYzPpmc3YlV9CigzNxgX0zDLsyqxADUK2jA_lDwnlmVDnSLrWivxWI6bE11l64A6QCFsqoAAzw0ode2CK9N68VifwNI7saobFz8NQJCM1Rtw0zVcvISM7Ez0Tzr-c5Gd-J5nAwbrYFnJg/h-iNYDKTykDpRqfKqyGBqutVIrzdOIB_wyLep2OCW40",
+                "width": 2250,
+                "height": 3000
+              }
+            }
+          }
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 16,
+      "nullValues": 0
+    },
+    {
+      "name": "Signature",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          {
+            "id": "att1bePOzMKRjW45W",
+            "width": 1007,
+            "height": 394,
+            "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/nJxj8y92-LJuoC9tjHZqdg/nV0U_2WLFNzsN6a-fuMv4EqfJ0qmisrvEdZ4ntETanuQmJLyh8oUDVaq6fG0uYH5vIxk5yZdJqA1oTqI98G64VnS5btQimS9WYhDiHoWnfblTx-mxeoXf3HFa7uJo5s8Lk-ZkgtP1g9u1rozeYKJT6pDhC78oUCyTMBncLjbjwBLYPhbj11o5PjmxehPgBkB/uIa35qEkbCf0pd60RBD7UFQFoznJ3Pc35jXI01Tfam0",
+            "filename": "signature_with_draw.png",
+            "size": 27751,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/VGPOpmM1xfm7Rrqj3b-AOg/TUL7vKq4vvujXcs7SbcWgIEqXrjKbUlPNQOPWsLtz8-NQWNhcw17zB3pk5HLJ_pCUG431Oa11tRFyTOYxsXDF2ZjGiYRGm26trNd2XSEiEYxwPdRyDAxXjsE8BzsxjlLQ_Usv0TnbRAV4q94rEriGg/rg51m10QWMMfyNvWKhSL0Hc3Nw6Z5UrfnpevAWI2Tj4",
+                "width": 92,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/JkCjDvhrbT89QE_H5kNt_A/DksBHxkYA7AIJGPgUaIy3hIGwGvvp3270yVVwwcJrq8UNzElcY24u5xfFw5pXXxEtaliBGAFkdhJaBacAQisViHOI7KdZRd1fP0KdPD40YVFlGm9G39EPkgzllfL-k0eA82_ZYFooYfMMHYoB5UV0g/4wPTGjvOOG3nSP0itNY8-JcxE6853gboSRlLidR1QkY",
+                "width": 1007,
+                "height": 394
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/F0F7Tg_xp8bI75TxCBUhKg/_D6wO84oUsjTUWjD1y4liL5-oWLkb4Z150VEeKVZVuDj7_jNkCVLJjFPgS7mDdgcVt5wLFkb1Jkhbr5gP0of5ye-No3GngqpHgga1Oh4RzkeCBjqS2anuR-oBpSxXQiFkw1nGhJGSgaRnYVX225SDA/okilq0Yu9gZtBBMQf0umJK8Dyi1eRArfHXUexi3jl3Y",
+                "width": 1007,
+                "height": 394
+              }
+            }
+          }
+        ],
+        [
+          {
+            "id": "att0q5ifR8DhDR40t",
+            "width": 463,
+            "height": 319,
+            "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/p6TikDYWsY0PJ7hAvmI1kg/sn1iq_wjrOu1iu9BJpewwpkZKJj1-kFD9mb1Acbx8OY02VmLeaSxGTGTi8ZXCYQziFdn53Jn9jrSS_vFX4D4bb-rLxmXkCnYALY0ir_a8luj-bGRUGiIaM3LUBKvDaYGWzseDAJVQ1627TlVEHIILBb9L12ptCiYv0ciPJ0iCc6PtkDWcOhMl5ZVHDZO-cpy/yYMLnzUPIGeNTad3wNpWrFhM5LMb6SS5paRPb0KnsWo",
+            "filename": "signature_with_draw.png",
+            "size": 15415,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/LYRN07NU5ePXE6TAYUrP9w/9Byh6_SdfZmpP1NYISq-GUIdW9SDfyLKo1ZH-iCYiyUgFDRkm645xYWT1mT0nytfBy3jL-lCxVLsDukpOl0jxQd2adTN3GDWLZm0BjyXFVdme53OfYRXx0nb7mUH2zhvdz7SouZbnEyAgNCpPDwVFw/VufMHhLJUVsSyvJ-skrmJEf9sayKAXKhxKbMa759yE0",
+                "width": 52,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/GLBM9RvZ4nQQXdjzR_AYsA/e-P4y-jtWFlZm-wVKiqnROArKP0YNICMEq5ZdE6TfPcoR3-BKPfZTa3WQYk5oV64wtocqN9jEC8OI04ZDljA7lVz5INPh2gmLFKtQusKJMAn-jHdDEmncGZXnUkQXJ6KHSWkpoZz36kh1xGV9GIRfQ/gFZiy87Q5dwERRwTTCjSRV8YEhRxJnOml4aHlAkVXzA",
+                "width": 463,
+                "height": 319
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/A9tOx4y-uAIEQVF_WheiVA/pwOm2rvQ-fVJzwcWSXZGtkab6j1dGiNvWDuoYmRGlMld8q1GSH7DZsDU6Qe2B3kgXAc08d0gfpEQpi0bo5Pb8K9FlIg5MkrxEyME-ymbtXha5JnG3T6NbieCSWiHfCsYLjYzuLg4Sk2Ra6X16cnAeQ/CPv7XTuTnKigSe0vzwrGC47j5iYMTOwR7e7ex5mt4gM",
+                "width": 463,
+                "height": 319
+              }
+            }
+          }
+        ],
+        [
+          {
+            "id": "atthUevKVDSfW5nqJ",
+            "width": 512,
+            "height": 306,
+            "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/1gT9ucs1j5UUKlWkAdljsA/Vj3Dec-OrEObKehpS-We4QoS10DDd3H4BJTk0wAiZpBohPEG_NO3daS2aPaxJNAW3r0qy8al-x9W-oS95uVbgyjEmTji_Lsyxfs7l5ueWv6oCGBWpwVQdTGSrTkaPI8NQ0Iibq2QC3WE5np6OUZYGGyMBPoHYsWChr3rBQJKUtRbVzQ2pp3HzUMbEZvpnl1N/pkDhIwRU5UlAO55iogj8JNWVaGSh8lCxRRswZuUJZXA",
+            "filename": "signature_with_draw.png",
+            "size": 13207,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/kYLdIeaRXcA6mSviWWcm3Q/ascnZ4c3hAJtV6E181KPP3xaWPAMjHa9Cv3hyKWNNuL8YffIu9X4SG616MhslzSDq4UDdvspSXuwZZPUYL8gvIfocMmVrz4pAIUgtRfIhtvVv08B8QMjzBr8Td6qdVzEPV5FW901N8a8meeK4EmJtA/ja9urqWbFGyhR4I-oQUr_H-CJtxjWYeplEF-a4STT_k",
+                "width": 60,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/ZrzaFN_WR3kWkfWGA0gD8w/TQ2pJhH8X-t2pIFdoObl3Xt34Bi5wlj9-Wbd1QOsnC_XzsYJCZTbZF-oUzCOh1wL-Shh-K1p7l0qLa5cBBUm6hmC16yzlubOQwu0h5TWT9m2EQ-Y2EPr-CVPdiL_3Yt1YFROeQIHy27slPrLh8KS0w/owZca7lueRGkeguC5EcO63CWJVBpECk6gujnJFzTzMI",
+                "width": 512,
+                "height": 306
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/mTncxX3RGkY-euqjNNQipQ/2eO5uiDAqJN8sn4roLNX0F3n5Bl9tJtkDpZe-y6rIAIqiUp8DGpCooMFO4QM4GOGQ3mPSUVxA-0UzgUNR0YSDs9IriuqxzOTSvRNLWEq9b1MgVdjgrA4IHALPl7QQvJqtQ1UbKYinNCD6h7RV8A7YQ/1RQDlv1wsZtv-ln9guZ9LUaXFmh51TIYYWznH_1ixE0",
+                "width": 512,
+                "height": 306
+              }
+            }
+          }
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 6,
+      "nullValues": 0
+    },
+    {
+      "name": "Phone Number",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "+61475869036",
+        "+61411579830",
+        "+61499854339"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 14,
+      "nullValues": 0
+    },
+    {
+      "name": "RAW Video and photo URL",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "https://www.dropbox.com/scl/fo/b3mwqedippysw9jyaxcdl/AB4vHWDctlm5N3vrUOd-gKE?rlkey=49j1gtcfcfj8k19sxoc527dxc&st=vt8sc4x7&dl=0",
+        "https://www.dropbox.com/scl/fo/b3mwqedippysw9jyaxcdl/AB4vHWDctlm5N3vrUOd-gKE?rlkey=49j1gtcfcfj8k19sxoc527dxc&st=vt8sc4x7&dl=0",
+        "https://www.dropbox.com/scl/fo/b3mwqedippysw9jyaxcdl/AB4vHWDctlm5N3vrUOd-gKE?rlkey=49j1gtcfcfj8k19sxoc527dxc&st=vt8sc4x7&dl=0"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 8,
+      "nullValues": 0
+    }
+  ],
+  "insights": [
+    "Key identification fields: Name, Unique Storyteller ID, Video draft link Rollup (from Media), Video draft link (from Media), Video draft link (from Media) 2, Preferred Name, Video Story Link (from Stories), Video Embed Code (from Stories), Title (from Stories), RAW Video and photo URL",
+    "Connection fields to other tables: Media, Themes (from Media), Summary (from Media), Quotes (from Media), Project (from Media), Description (from Themes) (from Media), Transcript (from Media), Theme (from Quotes) (from Media), Location Rollup (from Media), Video draft link Rollup (from Media), File Path/URL (from Media), Video draft link (from Media), Video draft link (from Media) 2, Galleries (from Media), Link (from Galleries) (from Media), User who added story, Shifts (from Media), Stories (from Media), Website themes, Quotes Rollup (from Media) (from Stories), Video Story Link (from Stories), Story Transcript (from Stories), Story copy (from Stories)",
+    "Rich content fields: Summary (from Media), Description (from Themes) (from Media), Transcript (from Media), Story Transcript (from Stories)",
+    "Media/file fields: File Profile Image, Video draft link Rollup (from Media), File Path/URL (from Media), Video draft link (from Media), Video draft link (from Media) 2, Link (from Galleries) (from Media), Magic Link URL, Video Story Link (from Stories), Video Embed Code (from Stories), RAW Video and photo URL"
+  ],
+  "analyzedAt": "2025-06-11T06:29:41.783Z"
+}

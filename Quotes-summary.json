@@ -1,0 +1,58 @@
+{
+  "tableName": "Quotes",
+  "recordCount": 1035,
+  "fields": [
+    {
+      "name": "Quote Text",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "It's a great idea and how it compacts, packs away...it's a great concept that could be really versatile in all ways.",
+        "People's why is pretty powerful and when they connect to that, I think that's kind of where it starts.",
+        "There is a part of society that is very unaware of this work. Even there is criticism and judgment because of that ignorance."
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 1035,
+      "nullValues": 0
+    },
+    {
+      "name": "Transcript Reference",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "recw72mZ5gvWbMRNT"
+        ],
+        [
+          "rec7ja6pMjxsL5192"
+        ],
+        [
+          "recn4ypQOMqgqWwDD"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 999,
+      "nullValues": 0
+    },
+    {
+      "name": "Theme",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "Innovation",
+        "Sustainability",
+        "Community Support"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 1035,
+      "nullValues": 0
+    }
+  ],
+  "insights": [
+    "Rich content fields: Transcript Reference"
+  ],
+  "analyzedAt": "2025-06-11T06:29:46.028Z"
+}

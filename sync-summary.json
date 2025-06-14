@@ -1,0 +1,58 @@
+{
+  "syncedAt": "2025-06-11T06:25:09.511Z",
+  "results": [
+    {
+      "table": "Stories",
+      "records": 39
+    },
+    {
+      "table": "Communities",
+      "records": 0,
+      "error": "You are not authorized to perform this operation"
+    },
+    {
+      "table": "People",
+      "records": 0,
+      "error": "You are not authorized to perform this operation"
+    },
+    {
+      "table": "Organizations",
+      "records": 0,
+      "error": "You are not authorized to perform this operation"
+    },
+    {
+      "table": "Events",
+      "records": 0,
+      "error": "You are not authorized to perform this operation"
+    },
+    {
+      "table": "Themes",
+      "records": 839
+    },
+    {
+      "table": "Impact Areas",
+      "records": 0,
+      "error": "You are not authorized to perform this operation"
+    },
+    {
+      "table": "Youth Justice",
+      "records": 0,
+      "error": "You are not authorized to perform this operation"
+    },
+    {
+      "table": "Housing",
+      "records": 0,
+      "error": "You are not authorized to perform this operation"
+    },
+    {
+      "table": "Health",
+      "records": 0,
+      "error": "You are not authorized to perform this operation"
+    },
+    {
+      "table": "Education",
+      "records": 0,
+      "error": "You are not authorized to perform this operation"
+    }
+  ]
+}

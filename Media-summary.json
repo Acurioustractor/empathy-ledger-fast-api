@@ -1,0 +1,571 @@
+{
+  "tableName": "Media",
+  "recordCount": 190,
+  "fields": [
+    {
+      "name": "File Name",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "Linda Turner - Interview",
+        "Irene Interview",
+        "Javier Aparicio Grau - Interview"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 190,
+      "nullValues": 0
+    },
+    {
+      "name": "Location",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "Tennant Creek",
+        "Palm Island",
+        "Spain"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 182,
+      "nullValues": 0
+    },
+    {
+      "name": "Type",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "Interview",
+        "Interview",
+        "Interview"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 176,
+      "nullValues": 0
+    },
+    {
+      "name": "Video draft link",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "https://web.descript.com/eb45afbe-6323-4573-8e3b-db5fc47f5d55/cb35c",
+        "https://share.descript.com/view/yGGmCr91Mh5",
+        "https://share.descript.com/view/xwO6W4SK4zR"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 81,
+      "nullValues": 0
+    },
+    {
+      "name": "Summary",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "Linda Turner, known as LT, discusses her background growing up in the bush and cultural naming practices. She describes her childhood on a cattle station as positive and emphasizes the community's role in raising children.",
+        "Irene Leallajar, a junior, talks about her family roots and life on Palm Island, home of the Boman people. She details her family history, including her late father from Palm Island and mother from Mount Isa. Irene reflects positively on Palm Island as her beautiful home.",
+        "Javier Aparicio Grau talks about his experience working with animals since 2008, detailing a typical day in his workshop with the animals, including waking them up, meals, activities, and recreational time."
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 189,
+      "nullValues": 0
+    },
+    {
+      "name": "Created At",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "2025-04-08T01:04:00.000Z",
+        "2024-03-31T19:55:00.000Z",
+        "2025-05-09T01:01:00.000Z"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 168,
+      "nullValues": 0
+    },
+    {
+      "name": "Storytellers",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "rec82aXhOsutMukXZ"
+        ],
+        [
+          "recXb8iKd3oUoiOao"
+        ],
+        [
+          "rec4tWTuud4GT6GDx"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 183,
+      "nullValues": 0
+    },
+    {
+      "name": "Transcript",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "Linda Turner\n===\n\n[00:00:00] \n\nA bit of atmos sound from the people behind. Okay. So you can just talk to me. Yep. This is invisible. Um, so we need to do is like say your full name mm-hmm. And then spell it so I don't get it wrong. Okay. What's your full name and spell it? My name is Linda Turner. L-I-N-D-A-T-U-R-N-A. And what do people call you though, LT?\n\nMy initial thumb. And the reason for that is because it's a cultural reason. Um, and it's. An elder passed away with the same name. So in our culture, we're not allowed to use deceased people's names. Sometime it can be for a few years, but sometimes in other groups it's forever. Yeah. How do you like to introduce yourself, like in terms of your background or identity?\n\nWhat's, what's way you do that? Um, well, I introduce myself as you know, Linda Turner, but known as lt. I'm a proud woman by woman. Um, born, um, [00:01:00] no, 160 kilometers north of Tennant Creek in the bush in the sixties. Yeah, so that's how I describe myself. I'm a Bush girl, grew up, um, for the first 13 years of my life.\n\nIn the bush. Yeah. That's awesome. What was that life sort of like, thinking about what life's like now? What's the differences? Uh, I had a, um, deadly um, um, childhood, um, growing up on a, in the bush on a cattle station, um, and. There was no alcohol or violence. So, um, that story about a village, it takes a village to grow children up.\n\nUm, it was certainly true in my case 'cause everyone in the, in the camp, you know, looked out for all the kids. Wow. And what's, um, what's the experience now for you here? Like, what's changed and what's happening? Oh, so much has changed. So much has changed. Not, not only in [00:02:00] our, in our cultural practices, but also, um.\n\nJust in life in general and, and laws and legislation and whatever from the mainstream side as well as, um, the most concerning thing, the loss of our. Um, language and culture. Mm mm There was, um, I think it was in the car before they were talking a little bit about the intervention. Yep. Was was that like a, a memorable big time for you, um, when that happened, or?\n\nYeah. It was a, it was a shocking time for all of us, um, for a lot of, because Aboriginal men were then made to be, um. Pedophiles and, um, um, child abuses and, and all, and every, all the men got, um, blamed for that. And, and even the good, there's good and bad in everybody. Mm-hmm. Um, every culture, every, um, race.\n\nSo [00:03:00] they felt as though. Some good men, good fathers, good grandfathers, good uncles actually got up and were very emotional and they said, I'm not like that. You know? So, and it's upsetting even. Um, as soon as they look at you, they think negatively. Mm-hmm. Yeah. And that, and that's what I'd like to change too.\n\nIs there a long term effect of that? Um, is it still now happening? Of course, of course. Yeah. I mean, that's, that's a lot of. Even myself, you know, I feel as though I've, I'm pretty, you know, out there and I've traveled even the world, you know, girl from the bush, but I still get to be made to feel as though.\n\nBecause we all get, um, thrown over the one blanket. Underneath the one blanket. So an example was last week I was in Darwin and I asked this old non-indigenous, um, man for the, I went to ask him for the time and I said, [00:04:00] excuse me, can you tell me the time? No, no, no. Okay. I said, I'm just asking you. Oh, I'm sorry.\n\nI said, look, not, not all aboriginal people are Vegas. You know, so yeah. So we still put up with an example. Alright. Um, how do you, how do you put on a positive mindset and start to work towards like. Um, bigger things in community when there's so much of that stuff that's happened. How do you create a positive moving forward, uh, by example, I guess, you know, like in my family, you know, well, let's lead by example.\n\nYou know, I try, we try to, my sister and I in our family. Try to lead by example to our kids and grandkids. Yeah. But, um, we all feel the same. Uh, you know, some of us experience it on a daily basis, so. Maybe that's a, that's a reason why a lot of people dream. You know, some of us have made a choice, [00:05:00] you know, not to let it affect, we can say not to let it affect, but it does affect us.\n\nWhat, what are some of the things you are looking forward to doing? Like, are you, have you got some projects and plans for things? Yes. Yeah. Um, we, um, my business partner and I, we were trying to start up a little business, you know, um, sharing our culture. And our bush medicines and our bush tucker and, and, um, we wanna do it show tourists so that it's, um.\n\nIn the end, it'll bring understanding and, um, to know that they, you know, this is how we lived. And, um, my business partner's got a, Trisha's got a block of land here on Waramug country. So, um, we plan to run it from there and, and to get houses built out there with the help of, um, many friends, donations for.\n\nPhilanthropy. Um, that's a really hard word for me. [00:06:00] Philanthropy. Yeah. Philanthropy. Yeah. So, yeah. Yeah. Um, yeah, so we've had tremendous help. We've actually, um, gone to New South Wales, Sydney, Canberra, Melbourne, um, ball other places, talking about our dreams to, um, be able to design and, um. Live in houses that are culturally appropriate, climate friendly.\n\nUm, so that's a really big thing at the moment for us. You know, I'm very, um, inspirational to know that a lot of work goes into it. Mm-hmm. But, you know, um, how, how can people best support you, do you think? And, and in what way? Like. Um, I'm sure there's different ways people can support, but how, how are you trying to get it, I guess?\n\nYeah. But how would you like people to come and work with you? Um, well, you know, we've had tremendous amount of people working with us, um, for one of the houses for Norman's house. Um. Engineers, [00:07:00] architects. Um, so we've built really good relationships. Um, and when we first started talking about these things, um, it was quite groundbreaking for us because we actually, you know, one of them, um, said.\n\nWhat does designing your own house mean? You know, that's how, um, how different it is. Um, and I thought, well, we've never been asked, we've never been asked at what sort of house we'd like to live in. So this is a really exciting, exciting time. You know? Um, there's so much potential out there. Absolutely. Um.\n\nWhat would, it could, can you paint a picture of what you think it would look like when you feel successful? When you feel like it's new? Like what, what would it look like? Um, oh, we, Trisha and I talk about it often, um, that we have our own, um, houses out there, our two houses, one for her family, one for my family, as well as [00:08:00] Norman, who's already on the way.\n\nUm. We'd like to have a, um, a facility there, a shed or something where we can host tourists or people, um, to talk about our culture, show our bush medicines, um, and hopefully have people camp there, tourist camp there to um, you know, get a cultural experience. That's what we want to promote, um, through our businesses is.\n\nOur culture. Yeah. Um, a lot of people that provide resources talk about this idea of impact. Mm-hmm. Um, and I think sometimes it's difficult to align with a western ideal of impact. 'cause it's like a bunch of numbers, a bunch of made up shit. What, what do you think impact would be for you for out there like.\n\nHow would that look for you as a, as a, um, well, the impact we've, we've spoken about Trisha and I, is to, we're setting this up for our kids and grandkids and that [00:09:00] they'll even, you know, independence, um, having a, being in charge of your own destiny, I guess. Um, being able to live on your own place. Um, we, we were talking this morning about, um, training them to identify the bush medicines and the bush.\n\nWe were talking about that this morning. So, um, some of our kids are following us and it, and gradually we're not forcing them, but we always encourage 'em. This is, you know what, we wanna leave for you guys. Yeah. Mm. Awesome. Yeah. Um, how much of your energy is this going to take? Like what, what do you need to do and what, what can people do to help you with that energy, I guess?\n\nAh, you're only two people. How? Yeah. Um, come and stay with us and help us physically, maybe, you know, to build some structures. I don't know. I don't really know. I'm, I'm blown away by the help and support and the generosity of people [00:10:00] already, you know, um, the ones that have given all that money to build a first house.\n\nAnd, and just meeting people who really are inspired by this concept of culturally appropriate. You know, climate friendly housing\n\nis a doggy liking that.\n\nThe Piper likes it. Um, one last little question. Um, that's a good question. I, yeah. All I see is opportunities in all of these communities. Um, like I'd love to see like what, what happens here? Spread. Yeah. How, how do you feel about. The opportunity to do, like to [00:11:00] make a successful goal over here, but then almost share that around Australia.\n\nOh, yep, yep. That's what we, we always have talked about. And the concept right at the beginning was, 'cause they've already done a couple of, we done has already done a couple of road trips to other communities who have really shown a lot of interest. So my vision in my two days. A week that I work with, um, and be involved in all of this is I'd like to eventually see the government sit down and talk to us, um, and realize that this could be a way of saving money.\n\nYou know, because billions of dollars of, um, funds just go and don't actually. Fit the need, you know? Um, there's so many houses. I think it was something like 450 houses needed to build to bring it up to parity, you know? Yeah. So [00:12:00] to just get on, on every, so that's how many houses behind, you know, people are, yeah.\n\nAnd I think it's a 10 year, um, waiting list on the waiting list for public housing here in Ken Creek. Yeah. That's such a long time. Yeah. So, you know, that's, yeah, it's a human, right? Yeah. For everybody to have, you know, houses, but, you know, Aboriginal people, I guess make do with what we can, you know, live in tin houses, find ways around that.\n\n'cause we, you know, you can cook on the fire, et cetera, et cetera. Yeah. Mm. Um, this might be a tough question, but I'll see how I go. Um, I think some people on the east coast of Australia and around from privilege, some of them have an misunderstanding of a lot of money gets given to indigenous people.\n\nMm-hmm. Where do you think that comes from and do you know what the reality of that is? Like? Well, media has a lot to do with it. Um, you know, we hear [00:13:00] $4 billion over, you know, whatever, 10 years, but it's, people just focus on $4 billion, you know, going in for housing. Not realizing how long, but then they don't.\n\nThey see it going from government straight to aboriginal. People who misuse and waste that money. They don't think it it. That's where the money goes off in the middle, in the bureaucracy, in the public servant. You know, that's where most of the money gets and hardly anything reaches the ground. But trying to explain that.\n\nYou know, media have a lot to do with the narrative of everything that's happening around Australia, you know? Um, and sad to say, but indigenous stories, good stories, good news stories aren't picked up very well. Mm-hmm. It's all bad stuff that gets picked up. So true. Yeah. It's happening in Queensland at the moment on justice.\n\nYeah. It happens in, um, yeah. [00:14:00] Yeah. That's the, that's, I think that's the thing that Nick and I most fascinated. That $4 billion. I'd love to do some type of analysis. Yeah. And just see like what percentage is going to who, because the amount of like white consultants that are in that middle bit. Mm-hmm. In, so Yeah.\n\nAnd that's where that money goes to. They're the ones that, you know, um, benefit from it all, but then got the check to talk about Aboriginal people, not. I'm spending money wisely. You know, uh, it's really when we are talking about that racism, you know, I try not to do this, but on Facebook, you know, when Spirit Walker or um, sovereign Nation, you know, they put something up about, you know, old pictures or good stories about Aboriginal people, you go into the comments and you just see straight away, you know?\n\nUm, and I always tell myself, why am I doing this? You know, I'm upsetting myself by reading it because this is. [00:15:00] Still happening, you know? But then sometimes I just wanna, you know, when I want to get angry, I just read the comments. So it's still, you know, it's still happening. Yeah. Super tough that stuff, like you kind of want to leave it alone, but when it's, yeah.\n\nWhen it's something that's specifically targeting an identity you belong with. That's, yeah. Super.\n\nUm, cool. Good yarn. Yeah. Do you have anything else that you wanted to make sure you said or No? I don't think so. I've just, um, yeah. Thank you for listening to us and come visiting us here. I'll be back. Yeah, no, we look forward to that. And yeah, I'll, um, what we'll do I.\n\n",
+        "\\# Irene Nleallajar\n\n[00:00:00] \n\nStart. You ready? I think so. You can look at me or you can look at that. It doesn't matter. Okay. Whatever's most comfortable. So all we need, do your full name and spell your name for me. Okay. So you go your full name and spell it. Just Irene Naja n for L-E-A-L-L-A-J-A-R. And I'm a junior. My mother's a senior.\n\nTell me a little bit about Arnie started with her family. Do you wanna start there about who your family is and where you Oh, sister Alice. Yeah. She's like a cousin. She's my cousin. Yeah. She's my big sister and we've been down here like almost 13, 14, yeah. Years. So we was here with PD for a long time.\n\nYeah. Yeah. Tell me what's tell me a bit about where you are from and a little bit about your broader fam, your bigger family. Oh I got my mom and dad. My dad died almost like 30, 35 years now, but [00:01:00] my dad, yeah. And my mom, my dad's, he born in bred Palm Island, so he's Dallas at so many families.\n\nAnd my mum is from, she born Mount Isa. My mom was a NEMA before she got married to Anja, my father, so she she's from at West. She born Mount Isa mom and she traveled some when she was younger there. She was traveled throughout the Northern Territory. Then she met my dad and they got married here.\n\nWow. Yeah. Awesome. Tell me a bit about what, how you feel about Palm Island. What's your feeling about it? Do you like it at Palm Island? Yeah, Palm Island is a beautiful home and it's home of the Boman people, the 40 tribes when they first came here. During the time when travel were sent here to the stolen generation.[00:02:00] \n\nYep. And what's changed over that time since you've been here, and how have you felt during those changes in I see a lot of changes throughout the years 'cause I'm a 1960 baby, so Yeah. I'm 58 years old now and I grew up on Palm. My five brothers and four sisters, they are they people they born Palm Island.\n\nBut I was born in Townsville, so just like back in 60, in the sixties. So we were, some of us was born pre, on the mainland and not really, but Palm Island is a beautiful home. Even today I seen so many different things over the years that changes. So yeah, this is the next generation. Yeah, and I.\n\nI brought up in a like I grew up Palm Island. I come from a family of hunters [00:03:00] and my dad is a, he's a fisherman and a bush walker. He walked along here. My dad is the oldest out of 15 in the old family. So my dad was born Palm Island too. Amazing. Born and bred, like all his siblings, cousins. What, what do you think is special about the activities and things you can do? Arnie was talking about her lease and where she does and fishing and hanging out and stuff. What's the special activities that you like to do on the island that make you most happy? I grew up knowing that I come a family, I come from a family of hunters.\n\nAnd fishermen and when we were small, we used to always, activities was to go camping and learn off the land and how to survive. And grew up with mother, my brothers and sisters. So I. And cousins. So we actually come from a big family, but we come as family, always big family [00:04:00] and everything. So yeah, even if we feel second cousin, but we always know each other as brothers and sisters.\n\nAnd I grew up with so many of my cousins siblings and yeah. But main thing about pama, we grew up in a. At the time growing up, we had everything. We had our elders, more elders and older people that lived during the time of the 70 eighties and nineties and 2000 year 2000 right up to now that some of our old elders and our people passed on.\n\nSo it's up to us now as older ones to steer this generation or young generation. So cool. What's some of the more negative things that maybe happen on Palm Island that you're hoping will change? Be? Pardon? What's some of the more negative things that might happen on Palm Island that you're hoping changes in the future?\n\nNot really. It's about how you grew up in, [00:05:00] in the home environment and how you grew up. Your your parents are your first teachers. I can always say growing up and at this time of this generation is, don't really need to say, like any on the mainstream too through alcohol and drugs and see the different things now, what's happening today.\n\nSo we likable to spread out the words, that spread out. Get more to mental health training workers, get young people to steer the way today because they are the next generation. And what do you hope that Furies can do to help people that are IES\n\ncan help more and to voicing out our opinions of drugs and alcohol and the workers and many more on the mainstream. So I. Yeah, it's the [00:06:00] more, I think mental health workers that we need younger ones to steer away. So it's really the problems. It's not like Palm Island problem, it's throughout the world and throughout the mainstream and other communities, but we've got other community that cares and shares and cares for our young people today.\n\nAnd true, I believe that needing more help.\n\nWhat's your who are the people you hang out with most in Palm Island? Big one. Who are the people you spend most time with in Palm Island? Is it work or at home, or family or children? What, who do you spend with? Like I said, family is everything, so yeah. Family more at home, more during the, environment to be clear towards their young people today and.\n\nMore into, but a lot of young people today love their families and [00:07:00] I don't really like, yeah. To see more of young people getting involved in a lot of things. Like work training, more training for people today, young people to encourage them. That is life after. Education and more education in life totally.\n\nWhat do you hope for the next generation of young people that are coming through Farm Island? Are there things you hope that they do better or more of? Or what's, what do you think to do better? Finish school education. Even though when you finish school, there's more education after that and a lot more to young people today to be educated about alcohol and drugs and yeah.\n\nThat's cool. Is there anything we didn't get to [00:08:00] talk about that you want to make sure you talk about now? Or, no, just, that's all I just wanted to share about. More things to come for our people today and more jobs in our communities and not only that, like us, the older ones, we grew up in Christianity too, and that's important that Christianity.\n\nAnd what's that community like on Palm Oil and the Christian community? Is it. Big or small or, and do people go to church a lot? What's that like? I'll just say not I alone, but in between. But yeah, just more leadership in young people today and getting young people to be trained in areas and to start off small, but everything eventually will get big.\n\nAnd [00:09:00] there's a lot of services in the community and through mental health. Workers training. So some of us at 30 s we did our mental health training here. Now we're doing counselor training now. But yeah,\n\nlife on Palm Island is always, never get bored. There's people go camping and fishing, hunting. Like we did in our time growing up, going back 30, 40 years ago, 50 years ago. So not much. Older people now and our elders, but our love and respect go to our elders, our people, no past, present, future.\n\nAnd get young people to encourage 'em more, to [00:10:00] get up there and they can do whatever they can put their mind to. It\n\nis a beautiful home. This is a island home. Got so many memories of Palm and now that. The older one, young one's passing on. So got Sister Iris down here that, yeah, she helps a lot with us. She's one of the Elder the senior workers here, and she give us a lot of support and lot encouragement and give us wise words.\n\nSo just, and there's many works in the community. That they can encourage, all younger ones too. To be up there and get strong and\n\ncome away from alcohol and drugs today. [00:11:00] It's amazing. You did such a good job. Pardon? I can't wait to show you. Yeah.\n\n",
+        "And talk to me, and I need... Navid? I was trying to say that... Your name and what's happening here? Uh... I don't know... Name, what I've told you, name, how long you've been here... Yes, my name is Javier Aparicio Grau and... What I've told you, that... dangerous. Animals are very curious. Well, I've been here since 2008, from 2008 to 2024, just now that... I think I make the date that... I've been years here since I started. From 2008 to 2024, 18... 16 years I've been here. And more or less, what do you want to know? I've been here for about 16 years. What? 16 years. What? Tell me a little about your normal day. Your job in your workshop, in a direct normal way? Well, once I work, in my day-to-day at this job, especially with the little ones, because we are with them all day, From when they start, from when they wake up from sleeping at night, we wake them up, we wake them up gradually, because they are sleeping and you have to wake them up little by little, they get up, clean up, have breakfast, start doing activities, be it gardening, school activities, then they also do sports. Afterward, they shower, as you saw today, then we do interior or exterior cleaning and after that, they also eat, after eating and then we spend some time with them during free time, they might do some recreational activity on the computer, like YouTube, music videos. They are also in a space we call ludic, where they can play. They can play chess, they also play ping-pong, watch television, Netflix series, all these platforms that exist now, until they then go to sleep for a nap. The one in the morning, when they do activities like gardening, sports, and others, in the afternoon they do school, they do schoolwork. And in the afternoons, mostly when they have schoolwork, they spend... They have three, four hours at school and spend almost the whole afternoon there. Then they have some free time, between those hours they have a snack, then after school, they have some free time, to disconnect a bit from the school subject. They have dinner a bit more free time, where they are calmer, watch a bit more TV and such, and then they brush their teeth, all the hygiene stuff, and then they go to bed. They go to their rooms and around eleven or so, the cables they have for the TV are collected. And once the cables are collected, ready for the next day to have the battery charged. It has been more or less... How did you get here? What was your process? Why did you start here? And what makes you keep working here and that you are working at the center? Well, look, I started working here through... In fact, until now, coordinator, Manolo. It was hard for me to come here because it's not easy, when they tell you, you're going to a juvenile center, it's not easy. It gives you a bit... A shock. But well, once I entered, that I came and such, at the beginning, all beginnings in anything, I think, work, it's not easy. Because you have to adapt, you have to adapt the adaptation time. Adapt, especially to the minors, because you come to their house. This is their house, not yours. And you have to come to their house and tell them how things are done. Teach you a little too. And know how the center's regulations work, because this also has regulations and it is what we are based on. A little. And from once you more or less internalize a bit the regulations, you get a bit with the minors and such, everything starts to make sense. At first it's hard, because it's hard for you, because the minors also... Whether you like it or not, you are a bit more nervous. That you say you don't have the nerves, that nerve that you have inside when starting something new, I don't know. So, once you settle down, you get used to the job and to the minors, to the kids and such, everything makes sense. And when they tell you to come here it's because they think that you can work. So, they told me, you, we believe that you can work here. Because of your way of being, your way of acting with the minors and such. And everything went a bit smoother. And in the end, you accept the kids, the minors, the minors accept you and until today. Once you have been 16 years it's because something is going well. And why do you like it? What calls me to this job is because the minors are minors who have committed crimes and such, but they are people, they are little persons. They are not robots. They are not... At the end of the day they are people who are also still kids, who are still not adolescents, who are still not formed and who make mistakes. So, you shouldn't see things as... You shouldn't see things far from reality. The reality that is here is the reality that is outside. And what has called me to this job is that they are still people the same here as those outside. And I think the treatment with people, as far as I'm concerned, I think I do well. I have always been told, if you are a good person outside, if you are a good person in your life, you can work here. I don't consider myself a bad person, then the kids later see that, the minors see it. I always call them kids, maybe it's not well seen. On the contrary. Kids, children, whatever. But if you are a good person, you are a good person, but you also have to leave a bit of space for normality. And you don't have to have a regulation that here, because if you are a good person, but you don't do things as you have to do in this job, and you abide by the regulations a bit too, you can't work here. You have to have a balance of both things there. And what I consider, for what I can be here, for what calls me to this job, and for what you have regularity, is because I consider myself a good person and in the end the kids see that. They see that you have to be fair. What they value is that you are fair. And what called me to this job is that. That the kids need, they are kids who have many needs. And that fills me. That you can help people who need help. That in the end is a bit that. People who maybe, there are some who have had, who have not had a good education. So, that you can contribute a little your grain of sand. That the minors, as they said before in there, are reintegrated. That's what fills me, what calls me to this job. After all. I've answered many of my other questions. One thing that has interested me is, I know it's hard to imagine, but in Australia it's a stilted environment. And it's quite, as if everyone is on edge, and focused on making sure nothing bad happens. And here it's a relational environment, as if people were hugging and talking. I would like to know from your words, like, what do you think creates that? What creates that environment? What's the main thing that creates that? You say, it's hard to explain how it works in Australia for you to understand. But everyone is very focused on nothing going wrong. And on security. Especially, security, security. And we are very based on affective relationships, affective relationships, affective relationships. Well, he wants, well, in your words, well that you explain how it's done or how you get to have those relationships with the kids. How is that achieved? It's achieved, well, that way. When you stop thinking about security, when you stop thinking so much about security and fear, because security in the end, I think it's also a bit about fear. When you break the barrier to approach the kids and you see that deep down they are kids with needs, they are people with needs. When you see that and break the barrier a bit from security, because you come here to work, but you have to be here eight hours. So, if you want to have affectivity with the people, with the kids you're working with, that in the end you're living with. If you don't stop thinking a bit about security and you get closer and have more, more of what we said about getting closer to the minors and in the affective. If you don't leave security a bit aside and get closer to the affective, the kids won't approach you. So, we think it's better to approach with affectivity and with naturalness, that then from security always goes, if you need security, and make a separation about the affective, that in the end will arrive. If the security the affective gives the security. It's that, it's that we, by having more affectivity with the kids, by being more natural, the kids forget that they have to do things out of obligation. And obligation takes away security. I don't know if I have explained myself well. No, no, I explained it perfectly. The thing is, it's like a passive security. We don't need to have anyone with security because if you approach, they trust you and you trust them. That relationship is what makes them not want to do something bad because they don't want to break that trust. They don't want to break that relationship and that is what security is in the end. Just like the Dual. Just like you, for the kids to internalize the regulation, you have to mold it a bit. You can't tell a person, you have to like, just like my son, you have to mold a bit, rack your brain a bit and you have to make mistakes to learn. Because at first you say a bit, you go a bit more regulatory, but then you have to mold the regulation and make it a bit more personal, learn as you go and they see that what you want, is that they are well. When they see that what you want is for them to be well, that you don't want to harm them, everything becomes easier. The last question. What's the broader societal impact of this model? And I guess the second question is, how do you feel when you see youngsters in the community? And if they do something bad. Do you have a different feeling after working here? One is, what impact do you think we make on society when we work? That is, our work how is it then reflected in society? And another, they are two questions. And the other is, after having worked here, how do you think the kids will return to where they live, from where they come? How do you think they will respond after having been around here? According to the work and according to what you have experienced. Regarding the latter. Yes. This is like everything. There is a percentage of people who when they finish here, unfortunately, do not reintegrate because that's the reality. But many others, yes, when they finish here, change the chip. They start to study. In fact, they tell you. Many of them tell you. And then, you find out through mediation from other minors, that when they leave here, they start to work. Because from here there are many who leave at 18 years old. And they also have internalized that from 18 years old, you have to be a bit more careful. You can't commit crimes that easily. And apart from that they mature. They mature. There are minors who are here two years. And in two years they have time to mature and absorb a bit what you also give them a bit. And it seems not, but yes, they internalize many concepts. Even those who re-offend. Yes, yes. Even those who re-offend. And it serves them a lot. There is also a percentage of minors who, unfortunately, do not reintegrate and that's what there is. But there is a high percentage that yes. And the first was... The first was regarding the community. What impact do you think the work we do, the impact it has on society? How can society see us now? I think, I tell you from what... How people close to me see us. The impact on society is a lot of empathy. They empathize a lot with us and give a lot of value to our work. In fact, many people tell me, man, it's difficult. It's difficult and it must be very difficult to work with minors like that in a place... Because you in the end work with a group of minors, who all have committed a crime. And you say, man, how can you work like that? And they see it in a way with a lot of respect. They see it with respect and see... And give a lot of value to our work. And in fact, I explain to many friends. I say, it seems one thing, but then when you work here, it's another. Because they are still little persons that many have, it's what I've told you, many have needs. And there... There are many people who have needs. And there... There are many people who have needs. And there... Many people, I tell you, people outside, what concerns me and is what... My experience is that people close to me, because many others, well maybe I can't tell you how they can come to see it, but the people I know and who tell me, man, it's of great value to work in what you work. It's what... And I think... That if it's the people who are close to me, I think the others also see it as a job with solera and with... And with... With roots of being an important job and an important task trying to reintegrate minors. Perfect. Thank you very much. To you. Well. Perfect.\n"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 184,
+      "nullValues": 0
+    },
+    {
+      "name": "Stories",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "reccxsuEDScstgPo2"
+        ],
+        [
+          "recAawuHnEzLSbMHm"
+        ],
+        [
+          "recXeWzBDUvlm7Kjw",
+          "rec7rSJb2uEN8Rhdi"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 26,
+      "nullValues": 0
+    },
+    {
+      "name": "Themes",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "recxC1PL9m4vurmVK",
+          "recRoPo9lsLQRibeW",
+          "rec4MRtG2LpViIdgx",
+          "recvbw0IH7yzQKVYO"
+        ],
+        [
+          "rec1SvbxgeeTigdB1",
+          "recqPay4IyUBUHCoD",
+          "recmxUGGmbggPA1qh",
+          "recJNwPtY4l5pA6iA"
+        ],
+        [
+          "recT9B7u6T5VQl8ZY",
+          "recfZ9B1F8qFdjY1b",
+          "recuPmXUdHZ89GrIg",
+          "rechbScmPsltlBqoU",
+          "rec0lvJp0CQDiPiPS",
+          "recnKi2eTFr9WMZVh",
+          "rec5gcXEInxrxUm03",
+          "reclsm7EY33SxEHCl",
+          "recAT9BOpxCUcKqFs",
+          "reccdWDrfXgfq2Du1",
+          "recXqx7JfZmHlgkFr",
+          "recyvxcenAjSr6iS4",
+          "rec670zaJPJHehDfj",
+          "recy16MgGs6QyU8rf",
+          "recgMJQnDzScU6wRH",
+          "rec6X8mfac8Wymg7O",
+          "recpXXx98cbulkmCZ",
+          "recTABo4uDAP3mHHe",
+          "rec1d4VCpqqczxpV6"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 184,
+      "nullValues": 0
+    },
+    {
+      "name": "Processed",
+      "types": [
+        "boolean"
+      ],
+      "sampleValues": [
+        true,
+        true,
+        true
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 190,
+      "nullValues": 0
+    },
+    {
+      "name": "Quotes",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "rec5iV0WhyHQpfAp7",
+          "rec1AcR9Kl80mRnPD",
+          "rec4OfpOc7EkICwef",
+          "recp1VoMCNBCCbWAx",
+          "recNI6z5vnoJU52tN",
+          "recaPyEAbYQa2Dtd1"
+        ],
+        [
+          "reciwTZzX7cbKRHep",
+          "recoasAAPtTvvaIEM",
+          "recM3NmSxfaPzPKaI",
+          "recEbWxyD3MdatBBP",
+          "recuGSRfu8zAe0Qsw"
+        ],
+        [
+          "recvkeDY0ZgknmWfB",
+          "recBW0rvZMwM5n8gB",
+          "recSTkxwVozk4VOuq",
+          "rec5gRc6lzUAb81Ha",
+          "recpbabDAChnm3DV7"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 183,
+      "nullValues": 0
+    },
+    {
+      "name": "Description (from Themes)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "The interviewee speaks about her unique cultural tradition of not using deceased people's names. This tradition appears to be important in her culture, and the interviewee follows this by going by initials instead of her full name.",
+          "Linda Turner introduces herself as an indigenous woman, who was born and raised in the bush. Her indigenous background and upbringing significantly shape her identity.",
+          "Linda reminisce her childhood spent growing up in a cattle station in the bush. She speaks positively about her childhood, mentioning the lack of alcohol and violence, and the communal way of raising children.",
+          "There is an implied contrast between the coziness and safety of her bush upbringings, free from alcohol and violence, and the modern life."
+        ],
+        [
+          "The speaker, Irene Nleallajar, discusses her personal identity, including her lineage and background. She presents herself as a junior in her family and talks about her parents and siblings.",
+          "Irene provides an extensive account of her family history, touching on her parents' past, their places of origin, and their life journey, which includes her mother's travels throughout the Northern Territory.",
+          "Irene's narrative underscores a deep sense of connection to place, particularly Palm Island. She expresses affection towards the island and identifies it as her home.",
+          "Irene refers to Palm Island as home to the Boman people and mentions 40 tribes, indicating a theme related to community and tribal affiliations. These references suggest a rich indigenous heritage and strong communal ties."
+        ],
+        [
+          "The speaker, known as Javier Aparicio Grau, explains their identity and the start of their journey since 2008.",
+          "A key theme is the emphasis on the length of time Javier has spent where he is (16 years from 2008 to 2024), suggesting a sense of commitment and experience.",
+          "Javier provides detailed information about his daily work routine, mostly involving taking care of children or young adults, starting from when they wake up in the morning, through their various daily activities.",
+          "A significant part of the discussion revolves around the various activities that those in Javier's care partake in. These include gardening, school activities, sports, cleaning, eating, and recreational activities such as playing games, watching television, and using the computer for things like YouTube and music videos.",
+          "The individual, Javier Aparicio Grau, identifies himself and shares his duration of stay in the current location from 2008-2024, for about 16 years.",
+          "Javier describes the daily routine with \"the little ones\" including their waking up, cleaning up, breakfast, activities like gardening and schoolwork, sports, showering, eating, and free time.",
+          "Javier's role includes caretaking and guiding the children through the daily routine. This involves gradual waking up, managing their meals, facilitating personal hygiene, and guiding them through a variety of activities.",
+          "Javier details the post-meal recreational activities that involve computer activities like watching YouTube, music videos, playing in a space they call \"ludic\" where they can play chess, ping-pong, and watch television.",
+          "The initial part of the conversation revolves around confirming the identity of one of the speakers, Javier Aparicio Grau, and the duration of his presence in an unspecified location.",
+          "There's a prevalent focus on the number of years spent by Javier in his current location or job, with frequent repetitions stressing 16 years of presence from 2008 to 2024.",
+          "This warrants a detailed description of a typical day in Javier's role, probably working with children or youth, encompassing a routine of waking them, overseeing their cleaning, meals, and the organization of various activities like gardening, schoolwork, sports, and leisure activities.",
+          "Javier delves into the recreational aspects comprising the use of digital technology, such as computers and YouTube, traditional games like chess, ping pong, and watching television. There's mention of a playful or 'ludic' space, highlighting the importance of play in the daily schedule.",
+          "One theme includes the speaker introducing himself as Javier Aparicio Grau and discussing his personal experience and timeline, having been in his current location since 2008.",
+          "The speaker brings up the topic of animals and curiosity, indicating the presence or interaction with animals, although the details are not clearly elaborated.",
+          "The speaker details his day-to-day activities at his job, mentioning tasks such as waking, cleaning up, and facilitating meal times and various activities for the individuals he works with – presumably children based on the reference to 'the little ones'.",
+          "The speaker, Javier Aparicio Grau, is being asked about his personal details such as his name and how long he has been in the current location, from 2008 to 2024.",
+          "He speaks about dangerous and curious animals, implying he could be working in an environment that involves dealing with animals.",
+          "Javier's daily routines involve a lot of activities that seem to focus mostly on taking care of children or individuals. This includes waking them up, helping them to clean up and eat, and supervising various activities like gardening, schooling, and sports.",
+          "In their free time, the individuals under Javier's supervision have access to several recreational activities including computer games, YouTube, music videos, chess, ping-pong, and watching television."
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 184,
+      "nullValues": 0
+    },
+    {
+      "name": "Project",
+      "types": [
+        "string"
+      ],
+      "sampleValues": [
+        "Goods.",
+        "Diagrama",
+        "Young Guns"
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 178,
+      "nullValues": 0
+    },
+    {
+      "name": "Theme (from Quotes)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "Community Support",
+          "Human Connection",
+          "Innovation",
+          "Comfort",
+          "Harsh Living Conditions",
+          "Long-term Health Outcomes"
+        ],
+        [
+          "Community Support",
+          "Human Connection",
+          "Long-term Health Outcomes",
+          "Comfort",
+          "Innovation"
+        ],
+        [
+          "Human Connection",
+          "Human Connection",
+          "Human Connection",
+          "Long-term Health Outcomes",
+          "Community Support"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 183,
+      "nullValues": 0
+    },
+    {
+      "name": "File Profile Image (from Storytellers)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          {
+            "id": "attCgXAuPpETN11NZ",
+            "width": 2000,
+            "height": 1333,
+            "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/9qx0LsiMcNB3ip5qwDq0_Q/aVPR6knk0b7zd7kmGijr0q4_KlwaYw9aBXOzzNnTzw8ijVrhX_e-Pn2VBviMu321FXs0EBpDI6QT_2VmYJef7fEb1jZNywxqdmj1l-Rb934LYd8KMh9o1fUo0QSTXkyRcW9dFEpL1yc5nkFOgUbrtmYHXfoQqlmSvLAprLNtjwD-MQIHjdcuHOTmks04YNnM/ojWcQOi_OmI7DyNITZXhx596WF4FCnz0rCkbtjm_yQA",
+            "filename": "Tennent Creek Day 2 Photo (1).jpg",
+            "size": 142971,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/5wmG0P7rbhwZSmOynD7Yfg/_oJQkKHM5Qg6Yugp5iDZs9vbxeWmIGrLrcCuK_K5boMT7HOFiapViIJmKf0dANs7_okxRJTQTWCDnc7QZRm7tD8dhpyGp0msxuzKG67Ayd4pmGWx3Wk51AXIADwvTfbicKJMMa2IeDPQk4Z5xeDmlQ/iY1X6PXFDzPUFUmCPELU5dAbJ3h1x0TZfUxhQl0YuHE",
+                "width": 54,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/IictzossFWVE-4woyIe2ig/yt4YVCYX3rOcw1lXsJfGf4H_Sarz_Zr3kZchk06oUeVKrYMyZiy7J5JEVyOhqsTs2par8lEOpWiwmJpU4bbe5LGN4HmOJvMlj5FRQCPEabCEYxVfuIFvqkK6OikBRYj8uVofzxi0oEa7-va75bFtBA/J7MLiydaJ2Yiuj4qJXq7iHksO5A5nwAMxvGi6WkYd3k",
+                "width": 768,
+                "height": 512
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/Du5gYexMaviDcbQ85dnZtg/fQzWW2LgwznMCrGdDVRm5pjpfIKZs2rPAiUJKQ6xUBR1iNyUmgYEnJLY63Lm2mNJhnQkTTgkES-BEzZ_oYorEW_hso7h-KPm9dSMhonErcjrYWfHEZ6S1a3iGVgpsIAQiXeMa_3EayGW6YBVbvpiiQ/EiwLUT4hTdVmBy_Tab6h9oar4kupI51MKBGyaGs6CYM",
+                "width": 2000,
+                "height": 1333
+              }
+            }
+          }
+        ],
+        [
+          {
+            "id": "atthMb7LnN48qelgm",
+            "width": 2000,
+            "height": 1334,
+            "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/LvObFv8lYU2j8K5cgYBXSA/0YRhZ4FsGv3sbSZxoKiCn7-mXiITSW9wGGo3WN9Vn6ja5rexFci46VzsMKroi1ugwCVXBjw1TLaa8UIOKWlDzlUgl0J8hjdJBHQDsmMolVpzQult9EPmgy9nCKquwXP1KUL1tWCQXkZY5Tuq-ClJVShqpkrNXROzRDhQ3YM_TnI/zyQzda6SPjYK67MfVXbUVnLRYGNOqwu57SeccHi1ywA",
+            "filename": "20250522-IMG_2883.jpg",
+            "size": 1294704,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/n-jnxQLyEKyyAtwDELrvNQ/kLKszA_og2OTGpjtWUlb2693ViTkuTN5OetoFzmt0C7aZt2iNQ9pJIHMOfp5AGYdRAu569F1uKzNyDHl_RULU8jCYbs1BqaJtsvSONvKE7MOkbWw0gub2_Z1LcXv4X2eldiQcGUj2RbPU4DpCQV-nw/aXw379AnhklrO1JHuZdcclt1AIEKSYyX6vOABKjruaU",
+                "width": 54,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/eXwHh9yEQ86O0xCKM9dLWg/MJ46eCHiQEN5xmnR3fi-sv0uLP70V5yPQtwLSpYXvLv8lWDYVdH5fhW-kpBYcIALG7L9EeMVDE6wxlUzy1vExlKgeEdWDZiB1iuzREtGJUQqbw2dHMvnbmieFrCOS1yHCx-qZyNnjUUaqvKfZeXlwQ/pj5KHiY1B1HROCNxyyaja-NLP6GKTqMJTs5hq4bJvVM",
+                "width": 768,
+                "height": 512
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/4xWwEV_z2Dnd4wNw_P8leA/l1ffTOI7w053vgb612QyqLjOktvL67Z_9fatHoCQVZOShuM_9iYxNJ625L6iQRHVtfP1xpYfpv0lKdTzP1rO-6GmeX2QH0uSnZFUnG3W--pm4ARWRzbBGy1k8FyqMQn5KDZlnvF7_7FinsThq-5SEw/TDXnaLItD_jmIKGZb_lShICxUs-4XydYpAM3XHI0Ibo",
+                "width": 2000,
+                "height": 1334
+              }
+            }
+          }
+        ],
+        [
+          {
+            "id": "attgzF30rEmYq7p9S",
+            "width": 1200,
+            "height": 800,
+            "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/3o0wo8BtoAOx3N92VAbRTA/BorqjUOvqRozeT5tWav-B1NYm3Iwbg8qZeDb8k_tfZ_YfOjY4jW1Qn4qNijC54rP2HgU93Y120HO1Jay3oNU2WBHkfV4aavI35G8BIzD1eTuhgW_dxAGq30L8iJL-cAw9B-wQx1j8jeTwkahC9mNhRsf70IH4SdSFJSZ13JuHKI/VG3aUGvYKfqbWQJzuOEnnqtzAeMkjtcj4zFfwilCkxE",
+            "filename": "Spain-Diagrama-LR-145.jpg",
+            "size": 464427,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/N_8stp9U8LOe1YCHj0grFw/ytQftRWUZCTpBL2XLav-yDVxlWMv-mXwc115jWBgDxmaLKyUlMpmJ5jZ0iHmpcvDKZcOcMFilC04WZTz9-QYaeU4iXhTIk_6Blr2uvbSrQT5W1RJ9Z_Yt2agyTJ7pVyM-X2_1GLPo6v_nOPObwzhzg/QGuvnp4mHaGkW4udmqkBapF3A1Xhm4vIOVt5X76Cp4Q",
+                "width": 54,
+                "height": 36
+              },
+              "large": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/ojP6Yq7Tr9r-Ul4dhjmp4w/riUecKYWOBspYskdHii2moUeS9LxptyReXgfiZ28F0BZ0e6ED9obhMbA-SrKzPZTFEt693ap5LRFQG9ZsvUrDy-li70P9UE_VtRmF5pCBEAujBUvpLPRMpOw2Lj_pLqAoVaNOcV3oyC19zm81BeUww/cD0cR9EsefmLgq0hF6a44dbjI0Sh3zv9PSmz9SxwKs4",
+                "width": 768,
+                "height": 512
+              },
+              "full": {
+                "url": "https://v5.airtableusercontent.com/v3/u/42/42/1749636000000/xCfmkP1QXY06Kr9jSV-9lw/KOFL9UOMbmOjd6DRPGYODFPDnMKhVwDL4d9rBMSlGBIpxbNLW13nvQdlB7jatpXFTeRZC2Eb897oJLPvbtH0sWK0tQnH44URX1hNg5oSb8RKfFk6m15pzl_eUoLEg0ophnZFXbEHDVsUr-5-a31mzQ/ZG6DFOztXSe_pZ7RVS92U_8WAqWMCYGOG1iE-xDVqV4",
+                "width": 1200,
+                "height": 800
+              }
+            }
+          }
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 175,
+      "nullValues": 0
+    },
+    {
+      "name": "Project (from Storytellers)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "Goods."
+        ],
+        [
+          "Diagrama"
+        ],
+        [
+          "Young Guns"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 181,
+      "nullValues": 0
+    },
+    {
+      "name": "Galleries",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "rec8Lw9NWOjw8EhKu"
+        ],
+        [
+          "recUa4nXM0FKqJZlP"
+        ],
+        [
+          "recUa4nXM0FKqJZlP"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 48,
+      "nullValues": 0
+    },
+    {
+      "name": "Link (from Galleries)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "https://photos.app.goo.gl/Lg845YTZ6wrfPZ4A8"
+        ],
+        [
+          "https://photos.app.goo.gl/taAqbJcqBGm3PV219"
+        ],
+        [
+          "https://photos.app.goo.gl/taAqbJcqBGm3PV219"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 48,
+      "nullValues": 0
+    },
+    {
+      "name": "Shifts",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "recywajtNjhcR4yPO"
+        ],
+        [
+          "recywajtNjhcR4yPO"
+        ],
+        [
+          "recsVCxQUtq7S86eP"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 38,
+      "nullValues": 0
+    },
+    {
+      "name": "Shifts (from Storytellers)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "recywajtNjhcR4yPO"
+        ],
+        [
+          "recywajtNjhcR4yPO"
+        ],
+        [
+          "recsVCxQUtq7S86eP"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 38,
+      "nullValues": 0
+    },
+    {
+      "name": "Post-Shift Reflection",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "recpmLI7vutufNtZV"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 1,
+      "nullValues": 0
+    },
+    {
+      "name": "Assignee (from Post-Shift Reflection)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "recgAx2YfdfL8MMCm"
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 1,
+      "nullValues": 0
+    },
+    {
+      "name": "Reflection Transcript (from Post-Shift Reflection)",
+      "types": [
+        "object"
+      ],
+      "sampleValues": [
+        [
+          "Had a really good shift, it was quite quiet, I think they did, I think there was three friends there, no friends wanted to be on camera or photos or anything, but super friendly and it was, yeah, super nice. There was a fella that was talking a lot about Brisbane and knew all the shifts and, but yeah, there was a few reasons why he didn't want to be on film. Had a lovely long yarn with one of the volunteers and I think she had some really great things to say, a bunch of things, so there should be a few short grabs there on volunteering, on perceptions of homelessness and there was some good service provider stuff there I think too. So, yeah, overall pretty quiet shift, but got some night shots and I think one nice profile volunteer photo with a few stories, so yeah, overall very generous and nice shift And Vinnie's came and we're doing some tea, coffee and hot cross buns and stuff. End of report."
+        ]
+      ],
+      "fillRate": "100.0%",
+      "totalValues": 1,
+      "nullValues": 0
+    }
+  ],
+  "insights": [
+    "Key identification fields: File Name, Video draft link",
+    "Connection fields to other tables: Storytellers, Themes, Description (from Themes), Theme (from Quotes), File Profile Image (from Storytellers), Project (from Storytellers), Shifts (from Storytellers)",
+    "Rich content fields: Summary, Transcript, Description (from Themes), Reflection Transcript (from Post-Shift Reflection)",
+    "Media/file fields: File Name, Video draft link, File Profile Image (from Storytellers), Link (from Galleries)"
+  ],
+  "analyzedAt": "2025-06-11T06:29:39.935Z"
+}
